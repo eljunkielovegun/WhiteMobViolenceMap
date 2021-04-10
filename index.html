@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>White Mob Violence</title>
+
+    <!-- <script src='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js'></script> -->
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" rel="stylesheet"/>
+    <!-- <link href='https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css' rel='stylesheet' /> -->
+    <style>
+
+body {
+margin: 0;
+padding: 0;
+}
+ 
+#map {
+position: absolute;
+top: 0;
+bottom: 0;
+width: 100%;
+}
+
+    .violenceDisplay {
+        position: absolute;
+        font-family: sans-serif;
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-right: 5px;
+        padding: 5px;
+        /* width: 30%; */
+        /* border: 2px solid black; */
+        font-size: 16px;
+        color: white;
+        /* background-color: #fff; */
+        border-radius: 3px;
+        z-index: 1;
+        }
+
+        a {
+        color: white;
+        }
+    </style>
+
+</head>
+<body>
+
+    <!-- Load the `mapbox-gl-geocoder` plugin. -->
+<script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js"></script>
+<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css" type="text/css">
+ 
+<!-- Promise polyfill script is required -->
+<!-- to use Mapbox GL Geocoder in IE 11. -->
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+
+<div class='violenceDisplay'>
+    <div style = "font-size:55px"><strong>WHITE MOB VIOLENCE 1824 to 1985</strong>  </div>
+    <span id='info' style = 'visibility: hidden'>
+    <div> <span id='mag' style = "font-size:24px"></span>: <span id='loc' style = "font-style: italic"></span></div>
+    <br>
+    <div> <span id='nar'></span></div>
+    <br>
+    <div><span id='date'></span></div>
+    <br>
+    <div  id='sourceDiv' ><strong>Source: </strong><span id='source'></span></div>
+    </span>
+  </div>
+
+<div id='map' style='width: 100%; height: 100vh;'></div>
+
+  
+
+<script>
+
+    
+// TO MAKE THE MAP APPEAR YOU MUST
+// ADD YOUR ACCESS TOKEN FROM
+// https://account.mapbox.com
+mapboxgl.accessToken = 'pk.eyJ1Ijoia2V2aW5wYXR0b24xIiwiYSI6ImNrbTZsa3NsdjBwNmoyb3FzYzJidmU3Y2MifQ.Mk2dd2jdoi4Hkij0utyJwg';
+var map = new mapboxgl.Map({
+container: 'map', // container ID
+style: 'mapbox://styles/mapbox/dark-v10', // style URL
+center: [-89.971111, 35.1175], // starting position [lng, lat]
+zoom: 5, // starting zoom
+pitch: 65, // pitch in degrees
+bearing: 0 // bearing in degrees
+});
+
+
+
+
+
+// fetch('WhiteMobViolence.json')
+// .then(response => response.json() )
+// .then(result => {
+//    // console.log('Success:', result);
+//     data = result
+//     makeMarkers()
+    
+//   })
+// .catch((error) => {
+//     console.error('Error:', error);
+//   });
+
+//console.log(data)
+
+map.on('load', function () {
+    makeMarkers()
+})
+
+
+function makeMarkers() {
+
+    map.loadImage(
+        'https://docs.mapbox.com/mapbox-gl-js/assets/custom_marker.png',
+        // Add an image to use as a custom marker
+        function (error, image) {
+        if (error) throw error;
+        map.addImage('custom-marker', image);
+
+                map.addSource('violence', {
+                    type: 'geojson',
+                    data: './WhiteMobViolence.geojson'
+            });
+
+            map.addLayer({
+                    'id': 'violence',
+                    'type': 'circle',
+                    'source': 'violence',
+                    'paint': {
+                        'circle-stroke-color': '#000',
+                        'circle-stroke-width': 1,
+                        'circle-color': '#ff0000', 
+                        'circle-opacity': 1
+                    }
+                });
+            }
+        );
+    
+
+        var popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false
+         });
+ 
+        map.on('mouseenter', 'violence', function (e) {
+        // Change the cursor style as a UI indicator.
+        map.getCanvas().style.cursor = 'pointer';
+ 
+        var narrative = e.features[0].properties.narrative
+        var coordinates = e.features[0].geometry.coordinates.slice();
+        var title = e.features[0].properties.title.toUpperCase()
+        var date = e.features[0].properties.date
+        var location = e.features[0].properties.location
+        var source = e.features[0].properties.source
+        
+        infoSpan.style = 'visibiliy: visible'
+        magDisplay.textContent = title;
+        locDisplay.textContent = location;
+        dateDisplay.textContent = "Date: " + date;
+        narDisplay.textContent = narrative;
+        // sourceDisplay.textContent = source
+        sourceDisplay.innerHTML = source.link(source)
+        // sourceDiv.style= 'visibility: visible'
+
+        // var iframe = document.createElement('iframe')
+        // iframe.source = source
+        // sourceDisplay.appendChild(iframe)
+        
+        // Ensure that if the map is zoomed out such that multiple
+        // copies of the feature are visible, the popup appears
+        // over the copy being pointed to.
+        while (Math.abs(e.lngLat.lng - coordinates) > 180) {
+        coordinates += e.lngLat.lng > coordinates ? 360 : -360;
+        }
+        
+        // Populate the popup and set its coordinates
+        // based on the feature found.
+        popup.setLngLat(coordinates).setHTML(title).addTo(map);
+        });
+        
+        map.on('mouseleave', 'violence', function () {
+        map.getCanvas().style.cursor = '';
+        popup.remove();
+        infoSpan.style = 'visibility: hidden'
+       
+
+        });  
+    
+}
+
+var magDisplay = document.getElementById('mag');
+var locDisplay = document.getElementById('loc');
+var dateDisplay = document.getElementById('date');
+var narDisplay = document.getElementById('nar');
+var sourceDisplay = document.getElementById('source');
+var sourceDiv = document.getElementById('sourceDiv');
+var infoSpan = document.getElementById('info');
+
+
+
+</script>
+    
+</body>
+</html>
+

@@ -1,0 +1,4064 @@
+{ "type": "FeatureCollection",
+"features": [
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-71.4111,41.8325]
+		},
+	"properties": {
+		"title": "Hardscrabble Riot",
+		"location": "Providence, Rhode Island",
+		"date": "18-Oct-1824",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "20 black homes destroyed",
+		"source": "https://goo.gl/rRI5FM"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.53822,39.166759]
+		},
+	"properties": {
+		"title": "Cincinnati riots (1829)",
+		"location": "Cincinnati, Ohio",
+		"date": "7-Jan-1829",
+		"fatalities": "Unknown",
+		"refugees": "1,200",
+		"narrative": "Labour competition. Irish migrants 'started to attack blacks and destroy their property, wanting to push them out of the city",
+		"source": "http://goo.gl/woHkXG"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-76.774411,38.473735]
+		},
+	"properties": {
+		"title": "Railroad riot",
+		"location": "New Market, Maryland",
+		"date": "19-Aug-1831",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "Serious altercation between Irish labourers and African American labourers. Massive riot. African American appear to have been the defensive part and they retreated into the town for shelter. 20 of the ringleaders (Irish) are arrested. But later that day a mob of 400 Irishmen marched into town and demanded their release. The mob were eventually subdued by a priest who looking to avert further violence paid the bail for the prisoners and hemarched the mob back to their homes.",
+		"source": "http://nwspprs.com/1nqvp"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-71.4111,41.8325]
+		},
+	"properties": {
+		"title": "Snowtown Riots",
+		"location": "Providence, Rhode Island",
+		"date": "21-Sep-1831",
+		"fatalities": "4",
+		"refugees": "Unknown",
+		"narrative": "4 white rioters killed by militia.",
+		"source": "https://goo.gl/hVMXsn"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.11787,40.001811]
+		},
+	"properties": {
+		"title": "Flying Horse Riot",
+		"location": "Philadelphia, Pennsylvania",
+		"date": "12-May-1834",
+		"fatalities": "1",
+		"refugees": "unknown",
+		"narrative": "Black churches, homes, looted and destroyed; Rioters called it 'Hunting the Nigs",
+		"source": "http://goo.gl/4W9YMl"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-73.996328,40.750422]
+		},
+	"properties": {
+		"title": "Farren Riots / Anti-Abolitionist Riot",
+		"location": "New York, New York",
+		"date": "9-Jul-1834",
+		"fatalities": "none",
+		"refugees": "unknown",
+		"narrative": "Black residences, churches, meeting halls, and businesses destroyed",
+		"source": "http://goo.gl/6YOXq5"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-72.057312,43.63123]
+		},
+	"properties": {
+		"title": "Noyes Academy Riot",
+		"location": "Canaan, New Hampshire",
+		"date": "10-Aug-1835",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "Mob of 500 whites use 95 oxen to tear down integrated abolitionist school, Noyes Academy",
+		"source": "http://goo.gl/dwzb6P"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.53822,39.166759]
+		},
+	"properties": {
+		"title": "Cincinnati riots (1836)",
+		"location": "Cincinnati, Ohio",
+		"date": "1-Jul-1836",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Influenced Harriet Beecher Stowe after she talked to some of the refugees fleeing the violence",
+		"source": "http://goo.gl/4v6ABL"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.152000427,39.943000793]
+		},
+	"properties": {
+		"title": "Burning of Pennsylvania Hall",
+		"location": "Philadelphia, Pennsylvania",
+		"date": "17-May-1838",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "Black and white abolitionists attacked; meeting hall burned down by mob; black orphanage and church attacked in following days.",
+		"source": "http://goo.gl/pbJwMU"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.53822,39.166759]
+		},
+	"properties": {
+		"title": "Cincinnati riots (1841)",
+		"location": "Cincinnati, Ohio",
+		"date": "3-Sep-1841",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "This anti-black riot involved the use of a 6-pound cannon being fire at their community by a white mob. Blacks were 'assaulted wherever found in the streets, and with such weapons and violence as to cause death.",
+		"source": "https://goo.gl/VTjYAb"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.172649,39.944858]
+		},
+	"properties": {
+		"title": "Lombard Street Riot",
+		"location": "Philadelphia, Pennsylvania",
+		"date": "1-Aug-1842",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "Black Abolitionist Parade attacked; AA church and homes burned.",
+		"source": "http://goo.gl/VwUtTd"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.142375257,39.955969409]
+		},
+	"properties": {
+		"title": "California House Race Riot",
+		"location": "Philadelphia, Pennsylvania",
+		"date": "9-Oct-1849",
+		"fatalities": "3",
+		"refugees": "unknown",
+		"narrative": "Post-Election violence in which Whigs & Nativists were termed pro-abolition and pro-Negro, while Democrats were pro-slavery and pro-Catholic; night after election, white gang attacked black district, burning and looting, including the California House where African-Americans resided. Militia needed to restore order; inspiration for George Lippard's famous novel, The Killers: A Narrative of Real Life Philadelphia.",
+		"source": "http://goo.gl/BSjxAX"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.206745,38.9124]
+		},
+	"properties": {
+		"title": "New Richmond flogging",
+		"location": "New Richmond, Ohio",
+		"date": "10-Jul-1854",
+		"fatalities": "0",
+		"refugees": "One Family",
+		"narrative": "A fight between white and black children led to an entire African American family being jailed. A white mob then took them from the jail, brought them to Kentucky, whipped them all and warned them never to return. The occurred sometime in the week of 10th July 1854, not an exact date.",
+		"source": "http://goo.gl/4B7h2H"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-76.623489,39.296536]
+		},
+	"properties": {
+		"title": "Federal Hill riot",
+		"location": "Federal Hill, Baltimore, Maryland",
+		"date": "1-May-1858",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "Two dozen whites organized to drive off black workers from the two Federal Hill brickyards.' One African American worker was shot to death and the fallout was that many African Americans were afraid to return to work.",
+		"source": "https://goo.gl/5dLal5"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.367525,33.439327]
+		},
+	"properties": {
+		"title": "Georgetown Riot",
+		"location": "Georgetown, South Carolina",
+		"date": "26-Jul-1862",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "On Friday, July 26, an unknown person attempted to set fire to an African American neighborhood in Georgetown.  The following evening, a tar barrel was set afire near the home of George Holland, a resident of unknown racial background. It seems that he was African American, however, because two black volunteer fire companies arrived to put out the blaze.  Later in the evening, “the cry of fire was raised almost simultaneously in a dozen different parts of the town.” A schoolhouse belonging to Mrs. Small was among the buildings razed to the ground.  Two of the fire companies that attempted to put out the blaze, the Heston and Star and Salamander, clashed openly in the streets.  There were no reported deaths but several of the volunteer firemen were badly beaten and stabbed.",
+		"source": "“Radical Riots in Georgetown,” Charleston Daily News, July 29, 1872"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-77.735104,42.895631]
+		},
+	"properties": {
+		"title": "New York Draft Riots",
+		"location": "Fifth Avenue, New York",
+		"date": "13-Jul-1863",
+		"fatalities": "11",
+		"refugees": "1,000",
+		"narrative": "White Mobs attacked and burned homes and businesses of African Americans. They also attacked the homes of white abolitionists and completely destroyed the Coloured Orphan Asylum on 44th Street. This white working-class violence changed the demographics of the city as hundreds of black families fled the city.",
+		"source": "http://goo.gl/MBVg8m"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.060184,42.347021]
+		},
+	"properties": {
+		"title": "Detroit Draft Riots",
+		"location": "Detroit, Michigan",
+		"date": "6-Aug-1863",
+		"fatalities": "2",
+		"refugees": "unknown",
+		"narrative": "Dozens injured; 35 buildings burned down",
+		"source": "https://goo.gl/pPim4L"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-77.493157,37.524246]
+		},
+	"properties": {
+		"title": "Richmond church attack",
+		"location": "Richmond, Virginia",
+		"date": "24-Nov-1865",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Started by attack on baptism ceremony",
+		"source": "http://goo.gl/vzaYZ4"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-77.059645,38.819853]
+		},
+	"properties": {
+		"title": "Alexandria Christmas Day Riot",
+		"location": "Alexandria, Virginia",
+		"date": "25-Dec-1865",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Started by ex-Confederate soldiers. 'They then proceeded to attack such negroes as came in their way, and, but for the intervention of the military, scenes similar to those in the New York drafting riot would have ensued.",
+		"source": "http://goo.gl/Pj5Kil"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.990415,35.169255]
+		},
+	"properties": {
+		"title": "Memphis riots",
+		"location": "Memphis, Tennessee",
+		"date": "5-Jan-1866",
+		"fatalities": "46",
+		"refugees": "1,000",
+		"narrative": "The Irish dominated police force led the pogrom after a prior altercation with some black Union soldiers who were stationed in the city. Black homes, schools and churches were destroyed. Particularly savage murders and rapes occurred.  'In all parts of the city, wherever they could be seen, negroes were fired upon by policemen as well as citizens. They were shot while driving hacks, and quietly walking in the streets about their business. The police seemed to make it their special business to shoot every negro they could see, no matter where he was or what he was doing.",
+		"source": "http://goo.gl/9RCjuE"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.90162,38.7834]
+		},
+	"properties": {
+		"title": "Gallatin County race riot",
+		"location": "Warsaw, Gallatin County, Kentucky",
+		"date": "8-Jan-1866",
+		"fatalities": "unknown",
+		"refugees": "200",
+		"narrative": "A band of five hundred whites in Gallatin County... forced hundreds of blacks to flee across the Ohio River...[they were seen] whipping Blacks, stealing their property, and ordering them to leave the area.",
+		"source": "http://goo.gl/MSjJXQ"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-76.208521,36.895911]
+		},
+	"properties": {
+		"title": "Norfolk race riot",
+		"location": "Norfolk, Virginia",
+		"date": "16-Apr-1866",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Started by attack on Black parade to celebrate veto of Civil Rights Act. White mob dressed in Confederate gray patrolled the streets. Captain Stanhope wanted the town placed under martial law because 'the city authorithies are powerless",
+		"source": "https://goo.gl/zdc1wp"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.077,29.958304]
+		},
+	"properties": {
+		"title": "New Orleans Massacre",
+		"location": "New Orleans, Louisiana",
+		"date": "30-Jul-1866",
+		"fatalities": "38",
+		"refugees": "unknown",
+		"narrative": "During a break in the [Louisiana Constitutional] Convention, violence broke out between armed white supremacists and African Americans marching in support of suffrage - and the African Americans were not prepared for the fight. Unarmed African Americans were attacked and murdered, and many law enforcement officials perpetrated the crimes.",
+		"source": "http://goo.gl/XiGwFO"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-78.634457,35.773632]
+		},
+	"properties": {
+		"title": "Disenfranchisement whippings",
+		"location": "Raleigh, North Carolina",
+		"date": "16-Jan-1867",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Systematic disenfranchisement of hundreds of African Americans via public torture. They were stripped of their vote due to a public whipping law which 'disqualified in advance' their right to vote. Many publicly whipped for minor offences. Punishment did not apply to white people. Date listed of newspaper not event. Occurred during December 1866. See 'Living in Infamy' by Pippa Holloway.",
+		"source": "http://nwspprs.com/1j941"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.103184,30.701142]
+		},
+	"properties": {
+		"title": "'Pig Iron' Kelley Riot",
+		"location": "Mobile, Alabama",
+		"date": "14-May-1867",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "Many killed and wounded'; triggered by black speakers and crowd angering local whites.",
+		"source": "https://goo.gl/fpDG5w"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.015664,35.217373]
+		},
+	"properties": {
+		"title": "Pulaski Riot",
+		"location": "Pulaski, Tennessee",
+		"date": "1-Jul-1867",
+		"fatalities": "2",
+		"refugees": "unknown",
+		"narrative": "Pulaski is birthplace of Ku Klux Klan. Date unverified.",
+		"source": "http://goo.gl/lT8EVN"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-80.612489,34.313477]
+		},
+	"properties": {
+		"title": "Assassination of Solomon Washington Dill",
+		"location": "Camden, South Carolina",
+		"date": "7-Apr-1868",
+		"fatalities": "2",
+		"refugees": "0 - Negative political impact – Democratic Party intimidated African American voters",
+		"narrative": "Solomon George Washington Dill was a native of Kershaw, South Carolina and an active member of the Republican Party in the early days of Reconstruction.  After serving as a delegate to the state Constitutional Convention of 1868, Dill won a seat in the SC House of Representatives in April of that same year.  After serving only a few months in office, Dill was induced to run for county commissioner.  During the campaign, Dill suffered much abuse in the local press and received several threats on his life.  As a result, he asked several close friends to stand guard at his home on nights leading up to the June elections.  On the evening of June 4, 1868, however, the Dill homestead was left unguarded.  Eleven men crept quietly towards the home; Four of these men stopped along the road to ambush any of the legislator’s allies who might have come to his defense.  The remaining seven men reached Dill’s house and killed the legislator and Nester Ellison, an elderly man who kept watch over the home.  Dill’s wife was reportedly wounded. Whether she died is unknown. Over twenty individuals were arrested by military authorities in connection with the crime but despite a large amount of circumstantial evidence and witness testimony, none were convicted. Democratic Party officials continued such acts of intimidation to scare African Americans out of voting Republican.",
+		"source": "http://www.screconstruction.org/Reconstruction/Sites_of_violence/Entries/1868/6/4_Assassination_of_Solomon_Washington_Dill.html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-96.244718,30.47857]
+		},
+	"properties": {
+		"title": "Millican Riot",
+		"location": "Millican, Texas",
+		"date": "19-Aug-1868",
+		"fatalities": "2-100",
+		"refugees": "Unknown",
+		"narrative": "The Millican Race Riot of 1868 was arguably largest race riot in Texas. The conflict occurred in Millican, Texas, a town located 15 miles from the Texas A&M University campus. Details remain unclear, but we believe that the Klan marched through Millican, a small central Texas town on the Houston and Central Texas Railroad, on during a Sunday church service led by Pastor George Brooks, a local Methodist preacher, former Union soldier, and Union League organizer. The worshiping armed freedmen fired on the rally, driving the Klan out of town. After the rally, George Brooks began a black militia of about 200 townspeople. The white community asked Nathan H. Randlett, local agent of the Freeman’s Bureau and former union infantry Captain, to stop the militia action, but Randlett refused. Several confrontations occurred including the rumors of attempted lynchings. Some papers report that Miles Brown, a freedman, was rumored to be lynched, others that Andrew (or his brother William) Halliday or Holiday, a white son of a former large plantation owner, the target due to his supposed lynching of Brown. Several confrontations occurred including a march on the larger county seat of Bryan by a large group of armed blacks, which ended in an armed assault on the local black community and deaths of numerous black women, children, and men. Brooks was apparently tortured and killed. It is unclear if his body was recovered. Apparently the local authorities called for a militia to be formed in Bryan and sent by train to put down the 'mob.' Newspapers describe the militia as being taken from the bars and brothels in the middle of the day. Newspapers also report that the black militia surrounded the local black community, patrolling the edges of the area to protect the citizens.",
+		"source": "https://millican.omeka.net/about"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.367525,33.439327]
+		},
+	"properties": {
+		"title": "Murder of Bill Mitchell",
+		"location": "North Island, Georgetown County, South Carolina",
+		"date": "4-Sep-1868",
+		"fatalities": "1",
+		"refugees": "0 - Negative political impact – Democratic Party intimidated African American voters",
+		"narrative": "W.H. Jones, a Black member of the South Carolina General Assembly, spoke for two hours in front of the home of Joseph H. Rainey, “Radical nominee for Congress.”  He stated that the Union Reform party was organized and were plotting to assassinate him.  He told those in attendance that an attempt on his life had been made “on the day of the fire” by two men in blackface, armed with daggers.  They failed because he had left his home to put out the fire.  He explains that the Democratic Party was behind the attempt on his life; Jones explained that on April 9, 1868, “Morse” murdered Bill Mitchell, a colored pilot, on North Island at the behest of Democratic Party officials for his support of the Republicans.",
+		"source": "“Scott’s Rifle Tactics,” The Charleston Daily News, August 29, 1870"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.242837,31.249152]
+		},
+	"properties": {
+		"title": "Camilla Massacre",
+		"location": "Camilla, Georgia",
+		"date": "19-Sep-1868",
+		"fatalities": "12",
+		"refugees": "unknown",
+		"narrative": "The Sheriff's men spent the rest of that day and several days following systematically pursuing the freedmen through the countryside as many as five miles from town and wounding or killing them as they tried to escape.",
+		"source": "http://goo.gl/CQbiVQ"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.104961,30.533657]
+		},
+	"properties": {
+		"title": "Opelousas Massacre",
+		"location": "Opelousas, Louisiana",
+		"date": "28-Sep-1868",
+		"fatalities": "100-300",
+		"refugees": "unknown",
+		"narrative": "The Opelousas massacre occurred in St. Landry Parish, Louisiana, on September 28, 1868. It centered around Emerson Bentley, a white editor for a local newspaper called The Landry Progress and an influential schoolteacher who promoted the education of black children. Bentley wrote an article that local members of the Seymour Knights, a branch unit of the white supremacist group The Knights of the White Camellia, deemed offensive. The backlash to the article led three men to take the attempt to intimidate and severely cane Bentley, causing him to flee St. Landry. Local blacks were told that Bentley had been murdered and banded together to retaliate. While marching towards Opelousas with arms in hand, efforts were made to inform the freedmen that Bentley had not been murdered but escaped; causing some of the men to retreat, while others continued to march. The freedmen were met by armed whites determined to defend their town. Shooting occurred by both sides and twenty-nine black prisoners were captured. On September 29, all of the captured prisoners, with the exception of two men, were taken from the prison and executed. The violence at Opelousas continued for weeks to come. The death toll of the massacre resulted in some controversy. Three white Radical Republicans and two Democrats were killed in the assault. Republicans stated that around 200-300 blacks where killed whereas the Democrats denied this claim as fraudulent and stated that only twenty-five to thirty were killed. Historians today have deduced that the Republicans were more correct in their number range.",
+		"source": "http://goo.gl/3w3ty8"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.396477,34.188798]
+		},
+	"properties": {
+		"title": "Assassination of B.F. Randolph",
+		"location": "Hodge’s Depot, Abbeville, South Carolina",
+		"date": "16-Oct-1868",
+		"fatalities": "2",
+		"refugees": "0 - Negative political impact – Democratic Party intimidated African American voters",
+		"narrative": "On October 16, 1868, three white men shot B.F. Randolph, a Methodist clergyman and state senator from Orangeburg, as he changed trains at Hodge’s Depot in Abbeville, South Carolina.  In the hearings that followed, one of Randolph’s assassins admitted that prominent Abbeville citizens had paid the trio to kill another prominent Republican, James Martin, a few weeks earlier.",
+		"source": "http://www.screconstruction.org/Reconstruction/Sites_of_violence/Entries/1868/10/16_Assassination_of_B.F._Randolph_(Hodges_Depot).html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.077,29.958304]
+		},
+	"properties": {
+		"title": "St. Bernard Parish Riots",
+		"location": "St. Bernard Parish, New Orleans, Louisiana",
+		"date": "25-Oct-1868",
+		"fatalities": "37",
+		"refugees": "unknown",
+		"narrative": "Despite organised resistance by Freedmen, they were overwhelmed by the sheer numbers of white attackers. 'During the entire days of Monday and Tuesday- the 26th and 27th, Oct., parties of armed white men… roamed over many plantations of the Parish, shooting and knocking down, and otherwise maltreating freedpeople, driving them pell-mell from their cabins, seizing guns, pistols, knives, -destroying Registration Papers… in short taking everything they could appropriate to their own use.",
+		"source": "https://goo.gl/8wrd7c"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.055091,34.528882]
+		},
+	"properties": {
+		"title": "Laurens County Riot",
+		"location": "Laurens, South Carolina",
+		"date": "20-Oct-1870",
+		"fatalities": "7",
+		"refugees": "unknown",
+		"narrative": "Racial and Political Violence; battle between white and black militias. 'On the day after the fall elections of 1870 armed whites and black militia met in a brief engagement in the town of Laurensville (now Laurens).  Following the encounter whites [circa 2,500] from surrounding areas descended on the town and by the next morning at least seven Republicans were dead (six black, one white) and two white Democrats were wounded. ",
+		"source": "http://goo.gl/tkojKk"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.893016,32.836298]
+		},
+	"properties": {
+		"title": "Eutaw Riots",
+		"location": "Eutaw, Alabama",
+		"date": "25-Oct-1870",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "Racial and Political Violence: 'The predominately black population of Greene County and white Republicans had already experienced many acts of violence by Ku Klux Klan night riders. The November, 1870 gubernatorial election became a focal point for racial and political tensions. Although federal troops were stationed near Eutaw, they did not stop political violence. Violence scared away black voters from the polls, thus contributing to the Democratic victory.",
+		"source": "https://goo.gl/N8FZhv"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.693698,32.800857]
+		},
+	"properties": {
+		"title": "The KKK ban black schools",
+		"location": "Walton County, Georgia",
+		"date": "3-Jan-1871",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "The KKK ban black schools and publicly burn one teacher's collection of school books. They dared 'any other n****r to have a book in his house.",
+		"source": "https://goo.gl/rMYgLY"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.851944,37.7325]
+		},
+	"properties": {
+		"title": "White 'teacher' whipped by Klan",
+		"location": "Fitchburg, Kentucky",
+		"date": "18-Mar-1871",
+		"fatalities": "0",
+		"refugees": "0",
+		"narrative": "Mr. Wheeler, thought by the Klan to be a teacher of African Americans, was abducted and whipped and warned to never teach AAs or set up a school for them.",
+		"source": "http://nwspprs.com/1rrse"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.168022,34.693285]
+		},
+	"properties": {
+		"title": "Chester Riot",
+		"location": "Chester County, South Carolina",
+		"date": "3-Apr-1871",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "The Ku Klux Klan formed in South Carolina shortly after the Constitutional Convention of 1868.  Chester County was a hotbed of Klan activity throughout the early 1870s, as Klansmen acted as the “terrorist arm of the Democratic party” and performed countless acts of intimidation and violence to prevent African Americans from exercising their political rights.  The most notable incident was the Chester Riot of 1871, where Klansmen and African American militia exchanged gunfire near a rail depot in Rock Hill. Following several days of battle, both sides agreed to a temporary truce.  Governor Scott responded to the incident by ordering all militia companies in the vicinity disarmed, which effectively removed any opposition to Klan activity.",
+		"source": "http://www.screconstruction.org/Reconstruction/Sites_of_violence/Entries/1871/3/4_Chester_Riot.html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.663489,32.381605]
+		},
+	"properties": {
+		"title": "Meridian Massacre",
+		"location": "Meridian, Mississippi",
+		"date": "3-Jun-1871",
+		"fatalities": "30",
+		"refugees": "unknown",
+		"narrative": "Racial and Political Violence (KKK): 'No single event of Mississippi's Reconstruction era was more notorious than the Klan-led riot at Meridian, in March 1871. The two-day pogrom enraged Republicans, guaranteed passage of anti-Klan legislation in Congress, and thereby set the stage for a new phase in the guerrilla war to rescue white supremacy.",
+		"source": "https://goo.gl/2Owy3M"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.706296,36.259503]
+		},
+	"properties": {
+		"title": "African American Church and School Destroyed",
+		"location": "Madison County, Tennessee",
+		"date": "5-Jun-1871",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "The Klan destroyed an African American Church and School in Madison County by setting them on fire.",
+		"source": "http://nwspprs.com/1rro2"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.869708,38.228115]
+		},
+	"properties": {
+		"title": "Frankfort Election Day Riots",
+		"location": "Frankfort, Kentucky",
+		"date": "7-Aug-1871",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "Riot on occasion of 2nd year of Afro-American voting",
+		"source": "http://goo.gl/o39ucN"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.147074,40.708223]
+		},
+	"properties": {
+		"title": "Patenburg Massacre",
+		"location": "Musconetcong Mountain, Hunterdon County, New Jersey",
+		"date": "21-Sep-1872",
+		"fatalities": "4",
+		"refugees": "150",
+		"narrative": "The white laborers appear to have drank a good deal of whisky; whether the Negroes did is not known. Late in the evening a party of the latter went to the village on a serenading expedition, and on their return fell in with a party of Irish laborers, by whom they were violently assaulted. They succeeded in driving off their assailants, and retired to their own quarters. The negroes immediately collected reinforcements, and, to the number of fifteen or twenty, advanced toward the scene of the first conflict. They were met near the same spot by a still larger party of Irishmen, armed with pistols and clubs, and, after a sharp fight, were discomfited, cut off from their quarters, and forced back to Mrs. Carter’s farm. Here they obtained further help, and then endeavored to save the cabins of the first party, which had been already attacked by their assailants. The Irish, better armed and more numerous, fired upon them across a deep cut and drove them off. The abandoned cabins were pillaged, and the money which the poor fellows had received the day before, and which was mostly deposited in sachels left in the quarters, was stolen. The Irishmen then fired the cabins, and immediately got into a row among themselves, during which one of the number, named Colls, was killed, and his body left near the cabins. During the night the Irishmen collected reinforcements, and next morning renewed the fight. By spreading the report that Colls had been murdered by the negroes, they roused their countrymen to the utmost frenzy, and a party of about 150 made an attack on the Negroes on Mrs. Carter’s farm just at daybreak. Roused from sleep by the firing, the poor fellows fled in terror and confusion, closely pursued by the infuriated Irishmen. One of the negroes, Denis Powell, was shot, and left dying by the road. A portion of the fugitives sought refuge in the out-buildings around Mrs. Carter’s house, under the porch, and elsewhere about the premises. The Irish demanded admission to the house, and when the brave woman refused, they beat in the door. Just at that moment a poor old Negro was discovered crouching under the porch. He was immediately shot, dragged out, and beaten to death with clubs. After searching the premises, and finding no one, they retired. On their way back they found Powell still alive, and falling upon him, beat out his brains with clubs and stones. Spying another fugitive, Oscar Bruce, in the act of climbing a fence, they shot him down, and then, jumping upon his prostrate form, stamped it and beat it with clubs until it was unrecognizable as the remains of a human being. (more info: http://chroniclingamerica.loc.gov/lccn/sn83030272/1872-09-28/ed-1/seq-1/#date1=1836&index=3&rows=20&words=PATENBURG+Patenburg&searchType=basic&sequence=0&state=&date2=1922&proxtext=%22patenburg%22&y=0&x=0&dateFilterType=yearRange&page=1)",
+		"source": "http://blackhistory.harpweek.com/7Illustrations/Reconstruction/PatenburgMassacre.htm"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-74.92,40.57]
+		},
+	"properties": {
+		"title": "Hunterdon railroad riot",
+		"location": "Hunterdon, New Jersey",
+		"date": "18-Oct-1872",
+		"fatalities": "4",
+		"refugees": "Unknown",
+		"narrative": "Labour violence between Irish and black railroad labourers.",
+		"source": "http://goo.gl/2Zfytd"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.653269,31.527636]
+		},
+	"properties": {
+		"title": "Colfax Massacre",
+		"location": "Colfax, Louisiana",
+		"date": "13-Apr-1873",
+		"fatalities": "60-150",
+		"refugees": "unknown",
+		"narrative": "Racial and Political Violence: 'In Colfax, La., on Easter Sunday 1873, a mob of white insurgents, including ex-Confederate and Union soldiers, led an assault on the Grant Parish Courthouse, the center of civic life in the community, which was occupied and surrounded -- and defended -- by black citizens determined to safeguard the results of the state's most recent election. They, too, were armed, but they did not have the ammunition to outlast their foes, who, outflanking them, proceeded to mow down dozens of the courthouse's black defenders, even when they surrendered their weapons. The legal ramifications were as horrifying as the violence -- and certainly more enduring; in an altogether different kind of massacre, United States v. Cruikshank (1876), the U.S. Supreme Court tossed prosecutors' charges against the killers in favor of severely limiting the federal government's role in protecting the emancipated from racial targeting, especially at the hands of the Ku Klux Klan.",
+		"source": "http://goo.gl/qrZp1r"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-85.116624,32.060643]
+		},
+	"properties": {
+		"title": "Election riot",
+		"location": "Eufaula, Alabama",
+		"date": "11-Mar-1874",
+		"fatalities": "7",
+		"refugees": "1,000 Republicans driven from the polls by paramilitary violence",
+		"narrative": "Political Violence. Riot led by the White League. 70+ injured. Part of a white supremacist coup d'etat in Barbour County.",
+		"source": "https://goo.gl/olGrL9"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.834407,32.339533]
+		},
+	"properties": {
+		"title": "Vicksburg Riots",
+		"location": "Vicksburg, Mississippi",
+		"date": "12-Jul-1874",
+		"fatalities": "31",
+		"refugees": "Unknown",
+		"narrative": "Political Violence. Democratic sources described it as a battle 'but when we contrast the results of the fights — for there seems to have been several— the whole affair appears more like a massacre than a battle. Thirty-three negroes killed, the Avalanche reports, and only one white man.",
+		"source": "http://goo.gl/4UcNeA"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.449167,34.640556]
+		},
+	"properties": {
+		"title": "Austin race riot",
+		"location": "Austin, Mississippi",
+		"date": "15-Aug-1874",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Needs to be verified. 'United States troops were called out and they fired on the Blacks as a matter of course.",
+		"source": "http://goo.gl/7Zl4Ri"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-93.264819,32.023096]
+		},
+	"properties": {
+		"title": "Coushatta Massacre",
+		"location": "Coushatta, Louisiana",
+		"date": "24-Aug-1874",
+		"fatalities": "20",
+		"refugees": "unknown",
+		"narrative": "Racial and Political Violence: 'After whites murdered African American Republican Thomas Floyd in Brownsville on August 25, tensions in the region mounted. The White League arrested several white Republicans and twenty African Americans, accusing them of planning a “Negro rebellion.” The whites’ rumors of uprising spread, attracting hundreds of heavily armed whites from nearby areas to Coushatta within two days.After being held hostage for days, the white prisoners agreed to resign and to leave the state. While traveling under guard, the prisoners were attacked by heavily armed whites determined to kill the men.  All six were killed. The violence was not confined to this group; whites in Coushatta and the surrounding area beat, burned, and hanged several African Americans. By the end of the massacre, at least four African Americans and the six white officeholders were dead. Although a handful of men were arrested, no one was ever convicted for the murders.",
+		"source": "https://goo.gl/DLQtF2"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.077,29.958304]
+		},
+	"properties": {
+		"title": "Liberty Place Riot",
+		"location": "New Orleans, Louisiana",
+		"date": "14-Sep-1874",
+		"fatalities": "40",
+		"refugees": "unknown",
+		"narrative": "Political Violence (White League): 'A pitched battle took place in the streets of New Orleans on September 14, 1874. In it, the Democratic-Conservative White League attacked the Republican Metropolitan Police for control of the city and to put an end to Reconstruction in Louisiana.",
+		"source": "http://goo.gl/IOLlNq"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.987524,33.767808]
+		},
+	"properties": {
+		"title": "Ned Tennant Affair",
+		"location": "Edgefield, South Carolina",
+		"date": "1-Jan-1875",
+		"fatalities": "8",
+		"refugees": "Unknown",
+		"narrative": "Following some minor disturbances in the summer of 1874, more pronounced violence broke out in Edgefield County in early 1875.  Matthew C. Butler, who had served as a major general of the Confederate calvary and was a prominent member of the county’s rifle and sabre clubs, urged the recently elected Reform governor Daniel H. Chamberlain to disarm Edgefield’s African American militia company.  Shortly thereafter an unnamed arsonist destroyed Butler’s home.  The accused perpetrator implicated Ned Tennant, the captain of Edgefield’s black militia company.  A manhunt ensued.  During the search, two African Americans were murdered and sporadic firefights took place between Tennant’s supporters and his pursuers.  Eventually, Tennant surrendered.  Shortly afterwards, Governor Chamberlain ordered the disarming of the militia and the disbanding of all other paramilitary groups in the county.  Tensions remained high; Later that year, following the death of a white woman (Lena Foster), six black men were arrested but were lynched by a mob of several hundred white men who removed them from the sheriff’s office.",
+		"source": "http://www.screconstruction.org/Reconstruction/Sites_of_violence/Entries/1875/1/12_Edgefield_Disturbances_(Ned_Tennant_Affair).html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.312371,32.370736]
+		},
+	"properties": {
+		"title": "Clinton Massacre",
+		"location": "Clinton, Mississippi",
+		"date": "9-Apr-1875",
+		"fatalities": "20-50",
+		"refugees": "Unknown",
+		"narrative": "Political Violence: 'At daybreak, the Vicksburgers, of whom there were 200 commenced slaughtering the negores. All the colored men they could find were shot down. A dozen of more were killed in cold blood...It is estimated that fifty men were killed in this way in the country on Sunday...",
+		"source": "http://goo.gl/8uGrzV"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.475849,32.815898]
+		},
+	"properties": {
+		"title": "Yazoo City race riot",
+		"location": "Yazoo City, Mississippi",
+		"date": "1-Sep-1875",
+		"fatalities": "5",
+		"refugees": "unknown",
+		"narrative": "Political Violence. White supremacist/Democrat led riot against African Americans and Republicans",
+		"source": "http://goo.gl/85lJgj"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.940808,32.792655]
+		},
+	"properties": {
+		"title": "King Street Riots",
+		"location": "King Street, Charleston, South Carolina",
+		"date": "9-Jun-1876",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "On Wednesday September 6, 1876 the Democratic Hampton and Tilden Colored Club of Charleston held a political rally at Archer’s Hall, located at the corner of King and George streets.  J.R. Jenkins, an African American supporter of the gubernatorial ticket headed by General Wade Hampton III, delivered a strongly worded denunciation of the Republican faction.  Following the adjournment of the meeting several Republicans in the audience followed Jenkins, who was protected by a group of white men, north on King street until they reached St. Matthew’s Lutheran Church.  One of the white Democrats fired a pistol into the air in an attempt to disperse the crowd.  Instead, the gunshot drew more African American’s to the scene and fighting commenced.  The black Democrats were placed under the protection of U.S. Army troops who were stationed on the Citadel Green and the white Democrats dispersed.  The mob took control of King street, firing into a street car near Vanderhorst street and looting stores along King street between Warren and Cannon Streets.",
+		"source": "http://www.screconstruction.org/Reconstruction/Sites_of_violence/Entries/1876/9/6_King_Street_Riots.html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.957893,33.479859]
+		},
+	"properties": {
+		"title": "Hamburg Massacre",
+		"location": "Hamburg, South Carolina",
+		"date": "4-Jul-1876",
+		"fatalities": "6",
+		"refugees": "unknown",
+		"narrative": "Political Violence: 'The small town of Hamburg, with its majority black population and strong African American leadership, was an important center of Republican power in Aiken county and a strategic campaign of violence there might help to deliver the election to the Democrats. Killing a few of its leading citizens and dispersing the militia would resonate with other Republicans in the neighborhood and might successfully convince them that an electoral victory might not be worth the high costs. It was the sort of targeted use of violence outlined by Gary in his “Plan of 1876” and it was used to devastating effect in Hamburg that July.",
+		"source": "http://goo.gl/g8wofb"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.680856,33.421311]
+		},
+	"properties": {
+		"title": "Ellenton Riot",
+		"location": "Ellenton, South Carolina",
+		"date": "15-Sep-1876",
+		"fatalities": "30-100",
+		"refugees": "unknown",
+		"narrative": "Political Violence: Summary of Mark M. Smith's article on wikipedia; 'A warrant was issued for the arrest of Fred Pope, supposedly Williams' accomplice. A posse of 14 white men was formed the next day. Pope was defended at Rouse's Bridge by armed black men, and the whites retreated. By September 18, it was reported that 500-600 white men from Augusta and Columbia County, Georgia, members of rifle clubs or paramilitary groups, had entered the area. They attacked part of the Port Royal Railroad tracks, tearing up a portion. The white mobs spread out and killed freedmen working in fields, or hunted down or on the street.  The official record of Deputy US Marshalls indicated between 25 and 30 black men were killed; a New York Times reporter in an article stated as many as 100 blacks were killed in the conflicts, which extended to September 21, with several whites wounded. At the trial of some black men in May 1877, numerous witnesses testified that the whites had repeatedly said 'they intended to carry the election [of 1876] if they had to wade in blood up to their saddle girths.",
+		"source": "http://goo.gl/vXor4K"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.833056,32.9275]
+		},
+	"properties": {
+		"title": "Cainhoy Riots",
+		"location": "Cainhoy, South Carolina",
+		"date": "16-Oct-1876",
+		"fatalities": "6",
+		"refugees": "unknown",
+		"narrative": "On October 16, 1876 a joint political meeting took place near Cainhoy, South Carolina, a small town located approximately nine miles northeast of Charleston.  A group of about one-hundred and fifty Democrats traveled to the site by steamboat and met their political opponents at “Brick Church.”  The leadership from both sides had agreed beforehand that participants would not bear arms at the meeting, but many of the Republicans, mindful of the sort of violence that had occurred previously in places like Hamburg, arrived to the meeting with their personal firearms.  When their leadership informed them that they were breaking protocol by carrying these weapons they stowed them nearby, some in a dilapidated vestry building on the premises and others in a stand of woods. The meeting commenced with a speech from the Democratic candidate for prosecuting attorney of the circuit, who was followed by W.J. McKinlay, a prominent Republican politician.  Shortly after McKinlay began speaking several young men from the Democratic congregation entered the old vestry and discovered the cache of weapons stored there.  They emerged from the structure and shouted warning to their comrades while McKinlay issued a similar warning to his fellow Republicans.  Seeing armed Democrats emerge from the vestry, many of the Republicans rushed to gather the weapons that they had stored in the nearby woods.  The scene quickly devolved into chaos as both sides feared the worst intentions from the other.  In the opening melee one elderly African American man was shot dead.  After this initial casualty the bulk of the Republican group returned from the woods with their weapons and quickly outflanked the Democrat’s position.  Many of the Democrats on the scene had carried sidearms to the meeting and returned fire, but they were ultimately driven from the field.  Between three and six of the white Democrats fell dead on the field before the firing ceased.  Members of Democratic controlled rifle clubs from Charleston quickly organized and arrived on the scene in force within a few hours.  Tensions remained high, but no more organized fighting took place and a small detachment of U.S. military forces arrived a few days later in order to maintain the tenuous peace.",
+		"source": "http://www.screconstruction.org/Reconstruction/Sites_of_violence/Entries/1876/10/16_Cainhoy_Riot.html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-91.33,32]
+		},
+	"properties": {
+		"title": "Tensas Massacre",
+		"location": "Tensas Parish, Louisiana",
+		"date": "11-Jan-1878",
+		"fatalities": "75",
+		"refugees": "Unknown (population",
+		"narrative": "Within a few days of the attack at Fairfax’s house,at least 500 armed outsiders from at least eight surrounding counties descended on Tensas Parish and began to roam through the countryside, even spilling over into neighboring Concordia Parish, all the while hunting for particular neighborhood leaders and other black men. It was a dry time of year (October), so whenever the mounted parties took off for one particular plantation or neighborhood, the people could see, recalled one white cotton planter, “the dust curled up from the road … over the tops of the trees.”30 Seeing the clouds of dust billow up in the distance, black men fled to the woods.31 Over the next two weeks before the election, work in the fields effectively came to a halt as dozens of men (and sometimes women and children) took refuge in the thickly forested regions of the parish, returning to their homes only at night. One black political organizer recalled that the woods were so filled with men that it seemed “as if a lot of sheep was running through the bushes.”33 Local blacks fled to the woods not to organize or to reestablish community, but to find a sanctuary from the violence that claimed at least forty and as many as seventy-five lives.",
+		"source": "http://www.yale.edu/glc/emancipation/behrend.pdf"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-91.24,32.37]
+		},
+	"properties": {
+		"title": "Madison whippings",
+		"location": "Madison parish, Louisiana",
+		"date": "3-Apr-1880",
+		"fatalities": "0",
+		"refugees": "Part of a mass exodus (thousands)",
+		"narrative": "During the election of 1879 armed groups of white men rode through Madison parish on horses 'whipping and intimidating negroes'. Many African Americans fled the area. This was part of a much larger exodus of African Americans at this time. See 'Exodus to Kansas: The 1880 Senate Investigation of the Beginnings of the African American Migration from the South' on the National Archives website.",
+		"source": "http://nwspprs.com/1j94i"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-93.947689,34.026502]
+		},
+	"properties": {
+		"title": "Howard County race riot",
+		"location": "Center Point, Howard County, Arkansas",
+		"date": "3-Aug-1883",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "",
+		"source": "http://www.jstor.org/stable/40023190"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.376228,36.603501]
+		},
+	"properties": {
+		"title": "Danville Riot",
+		"location": "Danivlle, Virginia",
+		"date": "3-Nov-1883",
+		"fatalities": "7",
+		"refugees": "unknown",
+		"narrative": "Political Violence: ' A crowd of black men soon congregated outside which inevitably resulted in an altercation. After the meeting an African American shoved one of the members and tempers quickly escalated. Even though the man apologized, many white men had already drawn pistols. A scuffle ensued resulting in seven black men dead and two whites injured (NY Times, 11/5/1883, 1). The military arrived shortly there after and the crowd dispersed. Much damage had been done, but many of the effects of the riot were not apparent until after the elections. Whites patrolled the streets after the riot with shotguns in an attempt to keep fear and submission in the hearts of African-Americans. The propaganda proved effective when the polls were tallied as 31 of the 1,300 blacks registered to vote submitted ballots (Ayers/Willis, 142). The result was a landslide victory for the Democratic Party. This event also marked the end of the Readjuster era.",
+		"source": "http://goo.gl/PbZHq8"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.995978,33.518425]
+		},
+	"properties": {
+		"title": "Carrollton Massacre",
+		"location": "Carrollton, Mississippi",
+		"date": "17-Mar-1886",
+		"fatalities": "20",
+		"refugees": "unknown",
+		"narrative": "Triggered by trial--100 to 150 armed men enter courthouse and massacre blacks",
+		"source": "http://goo.gl/TmkefZ"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-98.513844,31.979672]
+		},
+	"properties": {
+		"title": "Comanche County Pogrom",
+		"location": "Comanche County, Texas",
+		"date": "31-Jul-1886",
+		"fatalities": "N/A",
+		"refugees": "32",
+		"narrative": "",
+		"source": "http://chroniclingamerica.loc.gov/lccn/sn87060189/1886-07-31/ed-1/seq-1/#date1=1836&index=4&rows=20&words=allowed+negroes+No&searchType=basic&sequence=0&state=&date2=1922&proxtext=%22no+negroes+allowed%22&y=0&x=0&dateFilterType=yearRange&page=1"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.750268,29.808328]
+		},
+	"properties": {
+		"title": "Thiboudaux Massacre",
+		"location": "Thiboudaux, Louisiana",
+		"date": "11-Jan-1887",
+		"fatalities": "35-300",
+		"refugees": "Unknown",
+		"narrative": "Although the number of casualties is unknown, at least 35 and as many as three hundred workers were killed, making it one of the most violent labour disputes in U.S. history. All of the victims were African American.",
+		"source": "https://goo.gl/qFzkil"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.113506,36.42886]
+		},
+	"properties": {
+		"title": "Union City whippings",
+		"location": "Union City, Tennessee",
+		"date": "19-Feb-1887",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "A white mob comprised of 25 masked men whipped four African Americans (3 men and a woman) as part of a terror campaign",
+		"source": "http://nwspprs.com/1jbje"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.470661,31.563224]
+		},
+	"properties": {
+		"title": "Lawrence/Pike whippings",
+		"location": "Brookhaven, Mississippi",
+		"date": "7-Oct-1887",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Several negroes whipped by whites' and ordered to leave the county. Occurred near county line diviidng Lawrence and Pike.",
+		"source": "http://nwspprs.com/1j9na"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.3,35.24]
+		},
+	"properties": {
+		"title": "Crittenden County Coup D'Etat",
+		"location": "Crittenden County, Arkansas",
+		"date": "7-Dec-1888",
+		"fatalities": "unknown",
+		"refugees": "Unknown",
+		"narrative": "In Crittenden County, Arkansas, Reconstruction ended when racist white Democrats in Marion forcibly expelled African American elected officials (County Judge Daniel Lewis, County Clerk David Ferguson, County Assessor J.R. Rooks and Arkansas State Representative Sandy S. Odom) at gunpoint of 50 Winchester rifles on July 12,1888.  It was called 'The Revolution of 1888.'  The group of white who forced them to leave stated: 'God damn you, you‘ve got to leave this county, this is a white man‘s government, and we are tired of negro dominance; we have been planning this for the past two years, and not more Negroes or Republicans shall hold office in this county.' At that time (in 1888), Republicans were the party of Lincoln and Democrats were the party of white supremacy, redemption from 'Negro Rule', the Ku Klux Klan, and the White League, the Rifle Clubs, Red Shirts, or Knights of the White Camellia (other white supremacist groups). When whites in Marion expelled Black leaders at gunpoint, it was right before the fall elections, so this resulted in the complete loss of Black political power and the complete rise of white power.  Not only were Black elected officials expelled at gunpoint, but so were prominent Black citizens. After this was complete, white Democrats passed the Election Law of 1891, a poll tax, secret ballots, and eventually the all-white primary (in 1905) which helped nullify the voting power of the super Black majority in Crittenden County. This is how Black political power and representation was destroyed after Reconstruction in Crittenden County. It is clear from the historical record that Black people in Crittenden County did have political power, but through, terrorism, and taking the law into their hands, white people in Crittenden County stole African American's birthright. Legacy of 127 years.",
+		"source": "https://books.google.ie/books/about/It_was_Awful_But_it_was_Politics.html?id=saBQngEACAAJ&redir_esc=y"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-91.832747,29.949527]
+		},
+	"properties": {
+		"title": "New Iberia whippings",
+		"location": "New Iberia, Louisiana",
+		"date": "31-Jan-1889",
+		"fatalities": "0",
+		"refugees": "3",
+		"narrative": "Three African American were whipped and ordered to leave town. One of the victims was 70 years old.",
+		"source": "http://nwspprs.com/1hq0k"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.456783,38.35075]
+		},
+	"properties": {
+		"title": "Missouri riot",
+		"location": "Missouri",
+		"date": "15-Feb-1889",
+		"fatalities": "6",
+		"refugees": "Unknown",
+		"narrative": "A race riot broke out in Missouri between the blacks and the whites. At the beginning of the riot six white constables  were killed, and five others wounded. The whites immediately rose in arms and drove the negroes into the swamps.",
+		"source": "http://goo.gl/M3fWTG"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.055722,29.911385]
+		},
+	"properties": {
+		"title": "Gretna race riot",
+		"location": "Gretna, Louisiana",
+		"date": "1-Sep-1889",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "Report bottom of page 2, col 4.",
+		"source": "http://goo.gl/E8sMfh"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.439372,33.679553]
+		},
+	"properties": {
+		"title": "East Point mass whippings",
+		"location": "East Point, Georgia",
+		"date": "5-Sep-1889",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Fourteen African Americans were whipped by a group of Whitecaps or the KKK.",
+		"source": "http://nwspprs.com/1hor1"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.68169,38.72921]
+		},
+	"properties": {
+		"title": "Lawrenceville riot",
+		"location": "Lawrenceville, Illinois",
+		"date": "15-Sep-1889",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "A riot between the two groups led to a pogrom; 'Many negroes have left the town...it is possible that if any negroes are caught that took part in the riot they will be lynched.",
+		"source": "http://nwspprs.com/18djr"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.957787,31.600775]
+		},
+	"properties": {
+		"title": "Jessup killings",
+		"location": "Jessup, Georgia",
+		"date": "28-Dec-1889",
+		"fatalities": "4",
+		"refugees": "Unknown",
+		"narrative": "Murder of African American prisoners in cold blood and mass whippings followed a race riot which had started due to local Marshal killing an African American 'while making an arrest",
+		"source": "http://nwspprs.com/1j96x"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.145211,38.1863]
+		},
+	"properties": {
+		"title": "Corydon whippings",
+		"location": "Corydon, Indiana",
+		"date": "28-May-1890",
+		"fatalities": "0",
+		"refugees": "2",
+		"narrative": "Two African American women were kidnapped from their beds by a group of 25 KKK members on horseback. They were whipped severely and ordered to leave town. 'The screams of the women were heard, but the [white] people thought it was a negro fight, and paid but little attention to it.' Other reports describe how they were tied to trees and whipped fifty times with a heavy hickory switch. when they were found they were insensible and 'more dead than alive'. This attack was followed by the whipping of Walter Rowe and his wife. Rowe was an African American and a respected farmer in the area.",
+		"source": "http://nwspprs.com/1oo9h"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.513186,30.732347]
+		},
+	"properties": {
+		"title": "Amite whippings",
+		"location": "Amite City, Louisiana",
+		"date": "28-Jun-1890",
+		"fatalities": "1",
+		"refugees": "5",
+		"narrative": "200 armed and masked men on horseback (KKK) killed George Howard and whipped 4 other African Americans",
+		"source": "http://nwspprs.com/1iyg0"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-91.185607,30.44924]
+		},
+	"properties": {
+		"title": "Baton Rouge whippings",
+		"location": "Baton Rouge, Louisiana",
+		"date": "21-Nov-1890",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Several negroes were whipped' to prevent them from renting land in the area",
+		"source": "http://nwspprs.com/1iygo"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-66.030129,18.444389]
+		},
+	"properties": {
+		"title": "Phosphate Island riot",
+		"location": "Charleston, Carolina",
+		"date": "5-Dec-1890",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Unclear account",
+		"source": "http://goo.gl/Tu1WVW"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-121.803388,47.432251]
+		},
+	"properties": {
+		"title": "Franklin Mine Attack",
+		"location": "Franklin, Seattle, Washington",
+		"date": "29-Jun-1891",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "African Americans, unwittingly used as strikebreakers, are attacked by white mob.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC18910630.2.132&srpos=27&e=-------en--20--21-byDA-txt-txIN-%22Negroes+ran%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.58,33.09]
+		},
+	"properties": {
+		"title": "Attala whippings",
+		"location": "Attala County, Mississippi",
+		"date": "22-Nov-1891",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "A 'crowd of whites' murdered an African American at his home and 'severely whipped several others",
+		"source": "http://nwspprs.com/1j989"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.213618,37.290742]
+		},
+	"properties": {
+		"title": "Livingston whipping",
+		"location": "Livingston County, Kentucky",
+		"date": "25-Apr-1892",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "A group of Whitecaps or KKK kidnapped an African American named Boyd and brought him into the woods, beat him up and whipped him. Motivation? They wanted to 'whip a nigger",
+		"source": "http://nwspprs.com/1omtv"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.024294,35.119229]
+		},
+	"properties": {
+		"title": "The People's Grocery Store Lynching & Mass Exodus",
+		"location": "Walker Avenue, Memphis, Tennesse",
+		"date": "3-Sep-1892",
+		"fatalities": "3",
+		"refugees": "6,000",
+		"narrative": "After Thomas Moss, Calvin McDowell, and Will Stewart, all African-Americans and co-owners of People's Grocery, were lynched by a white mob on March 9, 1892, thousands of Black people fled Memphis.  Moss' dying words were, 'Tell my people to go west -- there is no justice for them here.'  According to anti-lynching Ida B. Wells in her speech 'Lynch Law in All Its Phases': 'It was our first object lesson in the doctrine of white supremacy; an illustration of the South's cardinal principle no matter what the attainments, character or standing of an Afro-American, the laws of the South will not protect him against a white man. There was only one thing we could do, and a great determination seized the people to follow the advice of the martyred Moss, and 'turn our faces to the West,' whose laws protect all alike. The Free Speech supported ministers and leading business men advised the people to leave a community whose laws did not protect them. Hundreds left on foot to walk four hundred miles between Memphis and Oklahoma. A Baptist minister went to the territory, built a church, and took his entire congregation out in less than a month. Another minister sold his church and took his flock to California, and still another has settled in Kansas. In two months, six thousand persons had left the city and every branch of business began to feel this silent resentment of the outrage, and failure of the authorities to punish lynchers. There were a number of business failures and blocks of houses for rent.",
+		"source": "http://historic-memphis.com/biographies/peoples-grocery/peoples-grocery.html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.905171,40.392619]
+		},
+	"properties": {
+		"title": "Homestead Strike Riot",
+		"location": "Homestead, Pennsylvania",
+		"date": "13-Nov-1892",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "Striking Homestead workers attack nonunion black strikebreakers inside plant; spreads as 2000 strong white mob attack fifty+ black Homestead families in town, looting and destroying property",
+		"source": "https://goo.gl/qYeE7e"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.975568,41.707431]
+		},
+	"properties": {
+		"title": "Assault by Lemont Strikers",
+		"location": "Lemont, Illinois",
+		"date": "6-Nov-1893",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "White strikers attacked a group of African Americans, beating them and tearing off their clothes.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SDU18930612.2.8&srpos=28&e=-------en--20--21-byDA-txt-txIN-%22Negroes+ran%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.327501,31.560143]
+		},
+	"properties": {
+		"title": "Brantley whippings",
+		"location": "Brantley, Alabama",
+		"date": "2-Mar-1894",
+		"fatalities": "3",
+		"refugees": "unknown",
+		"narrative": "Campaign of terror by Whitecaps. Notice posted on African American church at Brantley ordering all to leave the county or else suffer a lynching. Reports of two AAs whipped to death.",
+		"source": "http://nwspprs.com/1hufa"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.19981,41.32754]
+		},
+	"properties": {
+		"title": "Spring Valley pogrom",
+		"location": "Spring Valley, Illinois",
+		"date": "9-Feb-1895",
+		"fatalities": "Unknown",
+		"refugees": "100",
+		"narrative": "One man was indicted for 'giving aid and encouragement to the recent mob that drove the colored people out of the city.' No indication of exact numbers, but evidently it was many.",
+		"source": "http://goo.gl/YSVL5r"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.077,29.958304]
+		},
+	"properties": {
+		"title": "Dockworker Riot",
+		"location": "New Orleans, Louisiana",
+		"date": "11-Mar-1895",
+		"fatalities": "6",
+		"refugees": "unknown",
+		"narrative": "Triggered by white laborers angered at the fact that black laborers were competing for dock loading jobs",
+		"source": "http://goo.gl/YGoLkU"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.291229,30.440508]
+		},
+	"properties": {
+		"title": "Church Attack in Taylor County",
+		"location": "Taylor County, Florida",
+		"date": "22-Jul-1895",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "The Rev. W. D. Gillislee reports a reign of terror among the negroes of Lafayette and Taylor counties. He says their churches are being raided by white men, congregations dispersed and pastors driven away. Mr. Gillislee is the presiding elder of the Live Oak district of the Florida conference of the A. M. E. church. The counties mentioned are in his district, and he has recently returned from an attempt to fill his appointments. He was roughly treated. He says he was preaching in Lafayette County to a large congregation when a crowd of armed white men came into the church and stationed themselves near the pulpit. The leader asked Mr. Gillislee: 'How long do you expect to remain in this county and live?' Then the whites began to shoot, and Mr. Gillislee and the congregation ran out in a panic. Mr. Gillislee went to Branford, ten miles away, in Suane County. He made the trip in an hour. He then went to Taylor County, adjoining Lafayette on the west, but was again driven out. While preaching at night twenty white men came in and stationed themselves about the pulpit. Gillislee was greatly scared, but kept on preaching. Finally he said, 'Sinners, you must be, born again or go to perdition.' As he said that there was a howl from the white men and the mob shot out the lights. Mr. Gillislee and the negroes ran out, many being trampled upon.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC18950723.2.15&srpos=31&e=-------en--20--21-byDA-txt-txIN-%22Negroes+ran%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.77,35.47]
+		},
+	"properties": {
+		"title": "Marshall County whippings",
+		"location": "Marshall County, Tennessee",
+		"date": "21-Dec-1895",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "15 masked Whitecaps whipped one African American on a plantation and warned the rest to leave the area.",
+		"source": "http://nwspprs.com/1iyhm"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.296364,30.899787]
+		},
+	"properties": {
+		"title": "St. Landry riot",
+		"location": "St. Landry Parish, Louisiana",
+		"date": "7-Apr-1896",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "African Americans who were trying to register to vote were attacked. Two were shot dead by white supremacists, others were whipped and intimidated.",
+		"source": "http://nwspprs.com/1kbgs"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.985428,30.495814]
+		},
+	"properties": {
+		"title": "Jasper riot",
+		"location": "Jasper, Florida",
+		"date": "26-Jul-1896",
+		"fatalities": "6",
+		"refugees": "8",
+		"narrative": "Whites 'intrude' on festival",
+		"source": "http://goo.gl/o8NQ6p"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.20212,37.858422]
+		},
+	"properties": {
+		"title": "Altoona Shootings",
+		"location": "Little White Oak Creek, Kentucky",
+		"date": "17-Nov-1896",
+		"fatalities": "50+?",
+		"refugees": "Unknown",
+		"narrative": "Nine African Americans working at the Standard Oil Company were shot by a mob of 50 white men. Others took refuge in a house but the mob set it on fire. The foreman pleaded with them, and so all the African American were given 25 minutes to leave the site. No one was arrested. The report finishes with 'Not a negro can be found for miles around today.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC18961118.2.34&srpos=32&e=-------en--20--21-byDA-txt-txIN-%22Negroes+ran%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.651839,36.715599]
+		},
+	"properties": {
+		"title": "Mayfield Race War",
+		"location": "Mayfield, Kentucky",
+		"date": "23-Dec-1896",
+		"fatalities": "3",
+		"refugees": "Unknown",
+		"narrative": "Panic after rumours of revenge after lynching.  4 homes burnt down",
+		"source": "http://nkaa.uky.edu/record.php?note_id=1558"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.73824,37.762139]
+		},
+	"properties": {
+		"title": "Rock Springs whippings",
+		"location": "Rock Springs, Kentucky",
+		"date": "9-Mar-1897",
+		"fatalities": "0",
+		"refugees": "3",
+		"narrative": "Three African American were whipped and shot. They managed to survive and reach the town of Sturgis. The African American population at Rock Springs were ordered to leave by white mobs, but had ignored their threats.",
+		"source": "http://nwspprs.com/1j9be"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.076704,34.880643]
+		},
+	"properties": {
+		"title": "Riverton Pogrom",
+		"location": "Riverton, Alabama",
+		"date": "21-Jul-1897",
+		"fatalities": "N/A",
+		"refugees": "N/A",
+		"narrative": "",
+		"source": "http://nwspprs.com/27qc4"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.75535,33.871]
+		},
+	"properties": {
+		"title": "Lake City Riot",
+		"location": "Lake City, South Carolina",
+		"date": "22-Feb-1898",
+		"fatalities": "2",
+		"refugees": "remaining family",
+		"narrative": "Black postmaster and infant daughter killed by white mob.",
+		"source": "http://goo.gl/BZFXrt"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.75535,33.871]
+		},
+	"properties": {
+		"title": "Lynching of Frazier Baker",
+		"location": "Lake City, South Carolina",
+		"date": "22-Feb-1898",
+		"fatalities": "2",
+		"refugees": "6",
+		"narrative": "Shortly before one o’clock on the morning of February 22, 1898, Frazier Baker, an African-American postmaster in the predominantly white hamlet of Lake City, South Carolina, awoke to discover a raging fire deliberately set in back of the small wooden structure that housed both his family and the town’s post office.  Caught between the rising flames and a group of hostile and well-armed white men outside the building, Baker, his wife, and their six children sought unsuccessfully to douse the blaze.  As they prepared to flee the post office, the mob opened fire.  The postmaster was shot several times and collapsed, fatally wounded.  The barrage of gunfire continued unabated, and the three eldest Baker children were all seriously injured before they could escape through the open door into the night.  Baker’s wife Lavinia attempted to follow with her infant daughter Julia, but a bullet passed through her hand, killing the baby and tearing her from her mother’s arms.  Struck in the leg by a second bullet, Lavinia Baker collapsed beside the burning building.  The mob then dispersed as quietly as it had appeared.  As flames consumed the wooden structure, local African Americans drawn by the gunfire offered sanctuary in their homes to the new widow and her five surviving children. National protests, led by anti-lynching crusader Ida B. Wells and George White, the last remaining Black Reconstruction-era Congressman, forced the federal government to investigate.  Thirteen men were arraigned and charged with conspiracy to violate Baker’s civil rights under the Enforcement Acts. Local whites, however, obstructed justice through perjury and appeals to the racial sensibilities of jurors. The result was a mistrial.",
+		"source": ""
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-94.97,33.22]
+		},
+	"properties": {
+		"title": "Titus County pogrom",
+		"location": "Titus County, Texas",
+		"date": "9-Sep-1898",
+		"fatalities": "Unknown",
+		"refugees": "1,000",
+		"narrative": "Thousands of African Americans flee whitecaps (who are hunting them from the cotton fields) and many take refuge in the town of Texarkana. Titus County reportedly lost its entire African American population.",
+		"source": "https://goo.gl/nfUJ2V"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-77.963628,34.271985]
+		},
+	"properties": {
+		"title": "Wilmington Riot",
+		"location": "Wilmington, North Carolina",
+		"date": "11-Oct-1898",
+		"fatalities": "15-60+",
+		"refugees": "200",
+		"narrative": "Suspected that hundreds may have been killed.",
+		"source": "http://goo.gl/HDx8cP"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.110954,34.077347]
+		},
+	"properties": {
+		"title": "Phoenix Election Riot",
+		"location": "Phoenix, South Carolina",
+		"date": "8-Nov-1898",
+		"fatalities": "10",
+		"refugees": "unknown",
+		"narrative": "On November 9, 1898 four Negroes were lynched in front of a crowd of 500 white men for their involvement in the riot. After the lynching a group of 50 armed white men came together to seek vengeance on the blacks and the Tolbert family. On November 10, 1898 two more blacks were brutally killed in public.",
+		"source": "https://goo.gl/7rExHt"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-96.790329,32.781179]
+		},
+	"properties": {
+		"title": "Dallas riots",
+		"location": "Dallas, Texas",
+		"date": "31-Dec-1898",
+		"fatalities": "5",
+		"refugees": "unknown",
+		"narrative": "Five were seriously wounded. No other details to date.",
+		"source": "http://goo.gl/IsLDHC"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.869219,36.131582]
+		},
+	"properties": {
+		"title": "Commerce exodus",
+		"location": "Greenville, Tennessee",
+		"date": "25-Jan-1899",
+		"fatalities": "0",
+		"refugees": "100",
+		"narrative": "Whitecaps whipped and beat up four African Americans and ordered them to leave the town. Close to 100 reported to have left afterwards. Can't find the town Commerce on map?",
+		"source": "http://nwspprs.com/1hop8"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.368881,35.323134]
+		},
+	"properties": {
+		"title": "Lynchburg murders",
+		"location": "Lynchburg, Tennessee",
+		"date": "26-Jan-1899",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "Murder by Whitecaps. Two African Americans, who were whipped and force to leave their homes, returned only to be murdered by the same group.",
+		"source": "http://nwspprs.com/1hohi"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.08008,39.38893]
+		},
+	"properties": {
+		"title": "Pana Riots",
+		"location": "Pana, Illinois",
+		"date": "10-Apr-1899",
+		"fatalities": "7",
+		"refugees": "Unknown",
+		"narrative": "Dispute between white and black miners",
+		"source": "http://goo.gl/j5ht8V"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.225644,33.740956]
+		},
+	"properties": {
+		"title": "Cordova Pogrom",
+		"location": "Cordova, Walker County, Alabama",
+		"date": "20-May-1899",
+		"fatalities": "N/A",
+		"refugees": "N/A",
+		"narrative": "African Americans were threatened with death unless they left.",
+		"source": "http://chroniclingamerica.loc.gov/lccn/sn83030272/1899-05-21/ed-1/seq-1/#date1=1836&index=2&rows=20&words=Negroes+Out+Ran+Town&searchType=basic&sequence=0&state=&date2=1922&proxtext=%22negroes+ran+out+of+town%22&y=0&x=0&dateFilterType=yearRange&page=1"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.480626,33.467941]
+		},
+	"properties": {
+		"title": "Camp Creek murder",
+		"location": "Fayetteville, Georgia",
+		"date": "23-May-1899",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "A group of Whitecaps murdered Tom Linton, an African American, at his home in Camp Creek. This knocked his door in with an axe and shot him to death. Whitecaps had whipped 'several negroes' in the vicinity and it is believed that Tom defended himself.",
+		"source": "http://nwspprs.com/1hofg"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.289552,33.265854]
+		},
+	"properties": {
+		"title": "Griffin whippings",
+		"location": "Griffin, Georgia",
+		"date": "25-May-1899",
+		"fatalities": "0",
+		"refugees": "3",
+		"narrative": "Whitecaps whipped three negroes with buggy traces...the negroes had been ordered to leave town but refused to go.' The Sun newspaper reported that they worked at the Kincaid mills and had done nothing to warrant such an attack.",
+		"source": "http://nwspprs.com/1hoet"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-97.843091,36.402681]
+		},
+	"properties": {
+		"title": "Enid race riot",
+		"location": "Enid, Oklahoma",
+		"date": "29-May-1899",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Details are unclear. Riot between white and black mentioned in May 1899, investigation ordered but nothing further available. Black population plummeted in the following decades.",
+		"source": "http://goo.gl/fL6c3N"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.713359,31.16251]
+		},
+	"properties": {
+		"title": "Colquitt whippings",
+		"location": "Colquitt, Georgia",
+		"date": "22-Aug-1899",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "A posse attached to Sheriff Lynch whip, imprison (and/or) torture African Americans to get information about a possible murder suspect",
+		"source": "http://nwspprs.com/1hoen"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.128301,34.114209]
+		},
+	"properties": {
+		"title": "Greenwood whippings",
+		"location": "Greenwood, South Carolina",
+		"date": "24-Aug-1899",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Campaign of terror by Whitecaps. Whippings, beatings and rapes committed by small groups of white men. African American victims were ordered to leave the area. 4 white men indicted. Unclear if they were convicted.",
+		"source": "http://nwspprs.com/1hn02"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.291723,33.772554]
+		},
+	"properties": {
+		"title": "Decatur whippings",
+		"location": "Decatur, Georgia",
+		"date": "3-Sep-1899",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Campaign of terror by Whitecaps. 'Frequent whippings of inoffensive negroes..taken from the homes at night",
+		"source": "http://nwspprs.com/1hoeg"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.095499,34.335762]
+		},
+	"properties": {
+		"title": "Waterloo whippings",
+		"location": "Waterloo, South Carolina",
+		"date": "13-Oct-1899",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Reference to the whipping of an African American by a group of white men in the town (Whitecaps) AA community incensed.",
+		"source": "http://nwspprs.com/1hofy"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.145706,33.07577]
+		},
+	"properties": {
+		"title": "Barnesville disturbances",
+		"location": "Barnesville, Georgia",
+		"date": "17-Oct-1899",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Whitecaps harass Negroes': African American seek refuge in Barnesville after attacks by whitecaps",
+		"source": "http://goo.gl/VnXxLE"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-97.941476,33.820163]
+		},
+	"properties": {
+		"title": "Fort Ringgold riots",
+		"location": "Fort Ringgold, Texas",
+		"date": "25-Nov-1899",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "White mob attacked black soldiers",
+		"source": "http://goo.gl/MBLpO6"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.593543,31.462512]
+		},
+	"properties": {
+		"title": "Tifton murders",
+		"location": "Tifton, Georgia",
+		"date": "28-Jan-1900",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "Two innocent African Americans were whipped and beaten to death after being falsely accused of stealing an overcoat. Marshal implicated.",
+		"source": "http://nwspprs.com/1hplb"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.122741,29.979389]
+		},
+	"properties": {
+		"title": "Robert Charles Riots",
+		"location": "Metairie, New Orleans, Louisiana",
+		"date": "23-Jul-1900",
+		"fatalities": "28",
+		"refugees": "unknown- but reports of 'colored people fleeing the city' ",
+		"narrative": "Riot triggered after Robert Charles, a black laborer, engaged in shootout with New Orleans police.",
+		"source": "https://goo.gl/jwWtXb"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-73.993475,40.757538]
+		},
+	"properties": {
+		"title": "Thorpe Riot",
+		"location": "Ninth Avenue, New York, New York",
+		"date": "15-Aug-1900",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "In a few moments the mob swelled to 1,500 people or more, and as they became violent the negroes fled in terror Into any hiding place they could find. The police reserves from four stations, numbering 400 in all, were called out. The mob of white men, which grew with great rapidity, raged through the district, and. negroes, regardless of sex or age were indiscriminately attacked. Scores were injured.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH19000816.2.146&srpos=6&e=-------en--20--1--txt-txIN-%22negroes+fled%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.524017,41.04349]
+		},
+	"properties": {
+		"title": "Akron riot",
+		"location": "Akron, Ohio",
+		"date": "18-Oct-1900",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "Article relates this riot to those in New Orleans & New York already listed",
+		"source": "http://goo.gl/Jd77px"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.373197,36.986553]
+		},
+	"properties": {
+		"title": "Calvert city whippings",
+		"location": "Calvert City, Kentucky",
+		"date": "29-Dec-1900",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "Five African Americans who entered the town were told to leave. They did not do so, hence they were whipped and forced out.",
+		"source": "http://t.co/m0DW2aOIuL"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.848269,39.121393]
+		},
+	"properties": {
+		"title": "Elsberry whippings",
+		"location": "Elsberry, Missouri",
+		"date": "19-Mar-1901",
+		"fatalities": "0",
+		"refugees": "3",
+		"narrative": "Three African Americans were publicly whipped by a white mob and ordered to leave the town.",
+		"source": "http://nwspprs.com/1jblz"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-93.97419,36.984539]
+		},
+	"properties": {
+		"title": "Pierce City Pogrom",
+		"location": "Pierce City, Missouri",
+		"date": "19-Aug-1901",
+		"fatalities": "3",
+		"refugees": "300",
+		"narrative": "White residents in Pierce City ignited a 15-hour rampage with weapons stolen from a state militia arsenal and violently banished the town’s 300 black residents.",
+		"source": "http://goo.gl/6CTBe7"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-96.745384,35.709676]
+		},
+	"properties": {
+		"title": "Stroud Pogrom",
+		"location": "Stroud, Oklahoma",
+		"date": "26-Aug-1901",
+		"fatalities": "N/A",
+		"refugees": "N/A",
+		"narrative": "After an altercation between a black man and some white men, a white mob formed and burned two African American homes and 'ran all the negroes out of town",
+		"source": "http://chroniclingamerica.loc.gov/lccn/sn83040340/1901-08-30/ed-1/seq-5/#date1=1836&index=0&rows=20&words=negroes+out+ran+town&searchType=basic&sequence=0&state=&date2=1922&proxtext=%22negroes+ran+out+of+town%22&y=0&x=0&dateFilterType=yearRange&page=1"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-96.163955,35.982642]
+		},
+	"properties": {
+		"title": "Sapulpa Pogrom",
+		"location": "Sapulpa, Oklahoma",
+		"date": "26-Aug-1901",
+		"fatalities": "N/A",
+		"refugees": "N/A",
+		"narrative": "White mob formed to 'drive all the negroes out of town",
+		"source": "http://chroniclingamerica.loc.gov/lccn/sn83040340/1901-08-30/ed-1/seq-5/#date1=1836&index=0&rows=20&words=negroes+out+ran+town&searchType=basic&sequence=0&state=&date2=1922&proxtext=%22negroes+ran+out+of+town%22&y=0&x=0&dateFilterType=yearRange&page=1"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.13216,39.775092]
+		},
+	"properties": {
+		"title": "Attempted lynching at Newburg",
+		"location": "Newburg, Warwick County, Indianapolis",
+		"date": "1-Oct-1901",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "The sequel to an attempt made by a mob of white men last night to drive front Newburg, Warwick County, a negro whose wife is alleged to be a white woman, may be an attempt to lynch the black man. The negro moved into the vlllage a few days ago. The report that his wife was a white woman aroused indignation and he was ordered to leave. He refused to obey the order and a crowd of thirty or forty whites went to his house and commanded him to come out. The negro fired at the whites and the shooting became general. Sixty shots were fired, but nobody was wounded. The mob finally retired.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC19010111.1.11&srpos=23&e=-------en--20--21-byDA-txt-txIN-%22white+mob%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.25551,31.28267]
+		},
+	"properties": {
+		"title": "Opp riot",
+		"location": "Opp, Alabama",
+		"date": "4-Dec-1901",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "Race riot following presumed murder of two whites by black",
+		"source": "http://goo.gl/nTU5Ll"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.418988,34.487919]
+		},
+	"properties": {
+		"title": "Colleton Lynchings",
+		"location": "Colleton County, South Carolina",
+		"date": "6-Jan-1902",
+		"fatalities": "3",
+		"refugees": "Unknown",
+		"narrative": "Three black men (and possibly a fourth) were lynched for allegedly killing a white woman during a robbery in May.  A mob took one of the victims from police custody before tying the man to a pine tree and shooting him to death.  After the lynching, rumors of a race riot circulated. Source:Finnegan, “Lynching in the Outer Coastal Plain Region of South Carolina and the Origins of African American Collective Action, 1901-1910” in Toward the Meeting of the Waters, 42.",
+		"source": ""
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-94.06351,30.029441]
+		},
+	"properties": {
+		"title": "Spindletop intimidations",
+		"location": "Spindletop hill, Beaumont, Texas",
+		"date": "5-Apr-1902",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Labour Intimidation: Whitecaps placed a large sign on the hill which read 'all negroes get off the hill at once, or they will be drove off, by order of the whitecaps",
+		"source": "http://goo.gl/Z0rI5F"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.05706,30.61631]
+		},
+	"properties": {
+		"title": "Balltown riot",
+		"location": "Washington, Louisiana",
+		"date": "11-May-1902",
+		"fatalities": "30",
+		"refugees": "unknown",
+		"narrative": "An African American was burned at the stake by a white mob (who they accussed of committing assult). This white mob apparently forced another African American to light the pyre. The fallout was an extremely violent race riot.",
+		"source": "http://goo.gl/ovl7NG"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.843889,33.517778]
+		},
+	"properties": {
+		"title": "Langley train riot",
+		"location": "Langley, Georgia",
+		"date": "5-Jul-1902",
+		"fatalities": "2",
+		"refugees": "unknown",
+		"narrative": "Two wounded negroes 'captured and locked up. Soon afterwards they were taken out by the mob and shot.",
+		"source": "http://goo.gl/8YXNog"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-94.274632,39.332601]
+		},
+	"properties": {
+		"title": "Excelsior Springs whippings",
+		"location": "Excelsior Springs, Missouri",
+		"date": "30-Jul-1902",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "Whitecaps took three African Americans from the jail, tied them to a tree and whipped them. Ordered to leave town.",
+		"source": "http://nwspprs.com/1j9vm"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-80.821825,33.490935]
+		},
+	"properties": {
+		"title": "Orangeburg riot",
+		"location": "Orangeburg, South Carolina",
+		"date": "30-Jul-1902",
+		"fatalities": "1",
+		"refugees": "unknown (27 wounded)",
+		"narrative": "",
+		"source": "http://nwspprs.com/1hk5l"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.998053,33.688716]
+		},
+	"properties": {
+		"title": "Littleton riot",
+		"location": "Littleton, Alabama",
+		"date": "19-Oct-1902",
+		"fatalities": "3",
+		"refugees": "Unknown",
+		"narrative": "Altercation between whites and blacks leads to 'white citizens of Littleton become alarmed from fear'. Sheriff called in to 'protect town' from African Americans.",
+		"source": "https://goo.gl/zxap9c"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.425,38.541667]
+		},
+	"properties": {
+		"title": "Santa Fe Burnings",
+		"location": "Santa Fe, Illinois",
+		"date": "26-Apr-1903",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "After lynching of a seventeen year old African American the white mob attacked a 'colony of negroes living in tents' who were engaged in bridge construction work. 'The tents were burned and many negroes were shot...",
+		"source": "https://news.google.com/newspapers?nid=1913&dat=19030424&id=XSYgAAAAIBAJ&sjid=5WoFAAAAIBAJ&pg=2626,6172319&hl=en"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.077,29.958304]
+		},
+	"properties": {
+		"title": "St Tammany riot",
+		"location": "St Tammany, New Orleans",
+		"date": "11-May-1903",
+		"fatalities": "4",
+		"refugees": "Unknown",
+		"narrative": "Insolent negro' beaten by grocery clerk.",
+		"source": "http://goo.gl/KvSFO7"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.475036,32.424307]
+		},
+	"properties": {
+		"title": "Smith County Violence",
+		"location": "Burns, Smith County, Mississippi",
+		"date": "16-May-1903",
+		"fatalities": "3",
+		"refugees": "Unknown",
+		"narrative": "A rare war has broken out near Burns, Smith county. The whites there are up in arms and are whipping and killing negroes wherever they find them. One white man is reported to have been mortally wounded and several negroes killed.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH19030517.2.179.168&srpos=4&e=-------en--20--1--txt-txIN-%22negroes+fled%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.574963,37.997128]
+		},
+	"properties": {
+		"title": "Evansville race riot",
+		"location": "Evansville, Indiana",
+		"date": "3-Jul-1903",
+		"fatalities": "12",
+		"refugees": "Unknown",
+		"narrative": "Many African American families fled and never returned.",
+		"source": "http://goo.gl/uc04IT"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.166534,41.450991]
+		},
+	"properties": {
+		"title": "Lorain Mob",
+		"location": "Lorain, Ohio",
+		"date": "28-Jul-1903",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "a mob of 300 whites chased two colored men and threatened to lynch them. The Mayor addressed the mob and apparently calmed them down.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH19030729.2.14&srpos=16&dliv=none&e=-------en--20--1--txt-txIN-%22Negro+exodus%22------"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.792003,35.504165]
+		},
+	"properties": {
+		"title": "Lewisburg killings",
+		"location": "Lewisburg, Tennessee",
+		"date": "4-Aug-1903",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "Whitecap mob of between 15 and 30 men attacked the home of an African American preacher and he shot in back as he attempted to escape. His son in law was kidnapped and later shot.",
+		"source": "https://goo.gl/aoasNx"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-96.90695,33.65622]
+		},
+	"properties": {
+		"title": "Whitesboro whippings",
+		"location": "Whitesboro, Texas",
+		"date": "16-Aug-1903",
+		"fatalities": "0",
+		"refugees": "100",
+		"narrative": "Seventeen African Americans were publicy whipped and 'a great many negroes had fled the town'. The streets were patrolled by 'armed white men.",
+		"source": "http://nwspprs.com/1jbkv"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-94.41102,30.14021]
+		},
+	"properties": {
+		"title": "Sour Lake Pogrom",
+		"location": "Sour Lake, Texas",
+		"date": "7-Sep-1903",
+		"fatalities": "1",
+		"refugees": "100",
+		"narrative": "Indignation was expressed at Sour Lake when this news was made public and in a few minutes notices were posted In twenty-five or thirty conspicuous places about town. They read: 'Nigger, don't let the sun go down on you in Sour Lake tonight.' Many negroes hastily left the city. Over fifty left for Houston and Beaumont. The exodus continued tonight and many walked out of town.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH19030710.2.66&srpos=7&e=-------en--20--1--txt-txIN-%22negroes+fled%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.99051,37.930351]
+		},
+	"properties": {
+		"title": "Kevil exodus",
+		"location": "Kevil, Ballard County, Kentucky",
+		"date": "13-Oct-1903",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "African Americans, fearing mass reprisals after the killing of a white man, flee from the Kevil section of Ballard County.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH19031014.2.83&srpos=1&e=-------en--20--1--txt-txIN-%22Negroes+flee%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.673441,39.149242]
+		},
+	"properties": {
+		"title": "Fayette whippings",
+		"location": "Fayette, Missouri",
+		"date": "2-Nov-1903",
+		"fatalities": "0",
+		"refugees": "100",
+		"narrative": "A white mob took three African Americans (two women and one man) and whipped them publicly on the steps of the court house. Reports that 25 African American families fled the town.",
+		"source": "http://nwspprs.com/1j9c7"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.470661,31.563224]
+		},
+	"properties": {
+		"title": "Brookhaven assasination",
+		"location": "Brookhaven, Mississippi",
+		"date": "21-Dec-1903",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "Eli Hudson, a negro, living eight miles from Brookhaven' was murdered by a group whitecaps. They had previously ordered him to leave town but he refused. Oscar Franklin was later sentenced to life imprisonment for this murder.",
+		"source": "http://goo.gl/H6ibIi"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.13216,39.775092]
+		},
+	"properties": {
+		"title": "Normal City pogrom threat",
+		"location": "Muncie, Indianapolis",
+		"date": "14-Jan-1904",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "The entire African American community was ordered to leave the town by a white mob or they would be lynched. They organised resistance groups. But the white mob backed down.",
+		"source": "http://nwspprs.com/1jfe5"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.648801,39.800698]
+		},
+	"properties": {
+		"title": "Springfield Race Riot",
+		"location": "Springfield, Illinois",
+		"date": "6-Mar-1904",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Between 2,000 and 2,500 white men surrounded prison', the lynching that followed led to unrest. The African American district was set on fire.",
+		"source": "https://goo.gl/dwRU4N"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-91.13651,34.37177]
+		},
+	"properties": {
+		"title": "St Charles killings",
+		"location": "St. Charles, Arkansas",
+		"date": "27-Mar-1904",
+		"fatalities": "11",
+		"refugees": "Unknown",
+		"narrative": "After a riot a white mob hunted down and killed eleven African Americans who were deemed 'objectionable",
+		"source": "http://nwspprs.com/1jfm3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.172839,39.933724]
+		},
+	"properties": {
+		"title": "Memorial Day riot",
+		"location": "Reed Street, Philidelphia, Pennsylvania",
+		"date": "30-May-1904",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "A riot started after white pedestrians took issue with an African American band who carried a banner 'This is the day WE celebrate'.",
+		"source": "http://nwspprs.com/1k6rw"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-105.14832,38.36111]
+		},
+	"properties": {
+		"title": "Coal Creek Pogrom",
+		"location": "Coal Creek, Fremont County, Colorado",
+		"date": "11-Jun-1904",
+		"fatalities": "0",
+		"refugees": "Unknown (100+?)",
+		"narrative": "After the alleged killing of a white man by two African Americans, the white population ordered that all AAs should leave the town. Many followed this order.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH19041107.2.4&srpos=1&e=-------en--20--1-byDA-txt-txIN-%22Negroes+left+town%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.11787,40.001811]
+		},
+	"properties": {
+		"title": "Philadelphia riot",
+		"location": "Philadelphia, Pennsylvania",
+		"date": "1-Aug-1904",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "This account of a race riot sparked by a police officer's attempt to arrest an African American for a petty offence, concludes that the 'solution to the negro problem' is to 'send them back to Africa.",
+		"source": "http://goo.gl/0Wt2Wh"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.784956,32.425]
+		},
+	"properties": {
+		"title": "Statesboro killings",
+		"location": "Statesboro, Georgia",
+		"date": "18-Aug-1904",
+		"fatalities": "2",
+		"refugees": "25",
+		"narrative": "Lynchings, murders, whippings reported across the county. The tongue and bones of one of the burnt deceased shown as souvenirs.",
+		"source": "http://nwspprs.com/1hunb"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.930083,34.621336]
+		},
+	"properties": {
+		"title": "Senatobia whippings",
+		"location": "Senatobia, Mississippi",
+		"date": "5-Mar-1905",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Three negroes were whipped last night, and the house of Orange Bruce, a negro, was perforated with bullets",
+		"source": "http://goo.gl/8eryrm"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-93.107017,44.949582]
+		},
+	"properties": {
+		"title": "Construction of I-94 Destroys Rondo Avenue",
+		"location": "John Ireland Blvd, St. Paul, Minnesota",
+		"date": "9-May-1905",
+		"fatalities": "0",
+		"refugees": "1,000",
+		"narrative": "City and state officials in the Twin Cities chose to build the I-94 freeway straight up the middle of Saint Paul's Rondo neighborhood, displacing hundreds of people from their homes and destroying an entire Black commercial and cultural center, even though there was a more convenient route available that would displace nobody. In the 1930s, Rondo Avenue was at the heart of St. Paul's largest African American neighborhood that was displaced in the 1960s by freeway construction. African Americans whose families had lived in Minnesota for decades and others who were just arriving from the South made up a vibrant, vital community that was in many ways independent of the white society around it. The construction of I-94 shattered this tight-knit community, displaced thousands of African Americans into a racially segregated city and a discriminatory housing market, and erased a now-legendary neighborhood. While the construction of I-94 radically changed the landscape of the neighborhood, the community of Rondo still exists and its persistence and growth are celebrated through events like Rondo Days and the Jazz Festival.",
+		"source": "http://libguides.mnhs.org/rondo"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-93.092861,36.295086]
+		},
+	"properties": {
+		"title": "Harrison Pogrom",
+		"location": "Harrison, Arkansas",
+		"date": "1-Sep-1905",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "The rioters then swept through Harrison’s black neighborhood, tying men to trees and whipping them, burning several homes and warning all African Americans to leave that night. Most fled without any belongings. ",
+		"source": "http://goo.gl/s2GpIb"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.93441,32.534094]
+		},
+	"properties": {
+		"title": "Dublin whippings",
+		"location": "Bellevue Road, Dublin, Georgia",
+		"date": "29-Nov-1905",
+		"fatalities": "0",
+		"refugees": "2",
+		"narrative": "Two African Americans accused of 'sending threatening letters' were whipped by a white mob and ordered to leave the town",
+		"source": "http://nwspprs.com/1jdtc"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.648801,39.800698]
+		},
+	"properties": {
+		"title": "Springfield Race Riot",
+		"location": "Springfield, Illinois",
+		"date": "28-Feb-1906",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "At least 300 white rioters involved, many were teenagers.",
+		"source": "http://goo.gl/3OMykD"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-85.491781,39.299802]
+		},
+	"properties": {
+		"title": "Greensburg race riot",
+		"location": "Greensburg, Indiana",
+		"date": "30-Apr-1906",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "After an alleged rape of a white woman by a mentally-ill African American a white mob attempted to lynch to suspect but were fought off by law enforcement officials. 'They then went on a rampage in the black section of Greensburg, shooting and torching homes, destroying businesses, and beating blacks at random. Many blacks were driven out of the town, never to return. No one was ever arrested or tried for participating in the riots.'",
+		"source": "https://goo.gl/XQAnVG"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-97.550453,25.963264]
+		},
+	"properties": {
+		"title": "Brownsville Affair",
+		"location": "Brownsville, Texas",
+		"date": "13-Aug-1906",
+		"fatalities": "3",
+		"refugees": "167 innocent soldiers discharged",
+		"narrative": "The Brownsville Affair, or the Brownsville Raid, was a racial incident that arose out of tensions between black soldiers and white citizens in Brownsville, Texas, in 1906. When a white bartender was killed and a police officer wounded by gunshot, townspeople accused the members of the 25th Infantry Regiment, a unit of Buffalo Soldiers stationed at nearby Fort Brown. Although commanders said the soldiers had been in the barracks all night, evidence was planted against them.",
+		"source": "http://goo.gl/memR9T"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.47405,33.844371]
+		},
+	"properties": {
+		"title": "Atlanta race riot",
+		"location": "Atlanta, Georgia",
+		"date": "22-Sep-1906",
+		"fatalities": "25",
+		"refugees": "Unknown",
+		"narrative": "The local press contributed to the climate by publishing a number of articles claiming that black men had sexually assaulted white women. Almost all of the reports were false. By September, many felt that a race riot would soon explode. On Saturday, September 22, white crowds along Decatur street, many of them drunk and inflamed by the headlines, began to gather. Someone shouted, 'Kill the niggers,' and soon the cry was running along the crowded streets. Some 10,000 men and boys in the mob began to search for African Americans. Whenever the whites would see one, someone would cry, 'There is one of the black fiends'; minutes later, the 'fiend' would be dead or beaten senseless. Among the many victims, a disabled man was chased down and beaten to death. The mob rampaged for several days before the militia restored order. Officially, 25 blacks and one white died. Unofficially, over 100 may have died.' via PBS. N.B. A 13 y/o Walter White survived this riot (future head of the NAACP)",
+		"source": "http://goo.gl/ZkSTSq"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.950968,40.47441]
+		},
+	"properties": {
+		"title": "Pittsburgh riot",
+		"location": "Pittsburgh, Pennsylvania",
+		"date": "30-Nov-1906",
+		"fatalities": "1",
+		"refugees": "unknown",
+		"narrative": "The action of a negro policeman, who attempted to arrest a white man at Pittsburgh, precipitated a race riot, and the policeman received fatal injuries.",
+		"source": "http://goo.gl/lAKDq5"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.656138,32.686471]
+		},
+	"properties": {
+		"title": "Kimpser riot",
+		"location": "Kimpser, Mississippi",
+		"date": "29-Dec-1906",
+		"fatalities": "15",
+		"refugees": "unknown",
+		"narrative": "Report unclear. Seems to have been a number of riots, before and after militia sent in.",
+		"source": "http://goo.gl/49UTCX"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.69189,37.350092]
+		},
+	"properties": {
+		"title": "Thaxton railroad riot",
+		"location": "Thaxton, Virginia",
+		"date": "15-Feb-1907",
+		"fatalities": "3",
+		"refugees": "Unknown",
+		"narrative": "Labour dispute at railroad camp",
+		"source": "http://goo.gl/hGg1un"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.37664,32.83689]
+		},
+	"properties": {
+		"title": "Kirk plantation race riot",
+		"location": "George Kirk Road, Yazoo City, Mississippi",
+		"date": "8-Jul-1907",
+		"fatalities": "5",
+		"refugees": "Unknown",
+		"narrative": "Altercation between workers leads to shoot out. All the African Americans involved were either shot, lynched or whipped.",
+		"source": "http://goo.gl/ac1CAH"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.471754,39.139201]
+		},
+	"properties": {
+		"title": "Hillsboro Riot",
+		"location": "Hillsboro, Illinois",
+		"date": "8-Aug-1907",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "lll feeling toward negroes which has been brewing since last Friday night, when John T. Maddox, an aged white man, was assaulted by a negro, culminated in a serious riot last night. Negroes and white citizens fought in the public square for several hours and the population was in a turmoil. Finally most of the negroes fled from the town and order was restored.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=LAH19070809.2.44&srpos=1&e=-------en--20--1--txt-txIN-%22negroes+fled%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.746,37.693197]
+		},
+	"properties": {
+		"title": "Onancock riot",
+		"location": "Onancock, Virginia",
+		"date": "10-Aug-1907",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "During the race riot in Onancock in 1907, the black neighbourhood was terrorised by a white mob; many African American businesses were destroyed.",
+		"source": "http://www.jstor.org/stable/4248730"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.217281,31.167958]
+		},
+	"properties": {
+		"title": "McLaurin shootings",
+		"location": "Mclaurin, Mississippi",
+		"date": "25-Sep-1907",
+		"fatalities": "6",
+		"refugees": "Unknown",
+		"narrative": "Labour dispute; 6 Afro-Americans shot",
+		"source": "http://goo.gl/hNJZdl"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-96.012229,35.462159]
+		},
+	"properties": {
+		"title": "Henryetta Pogrom",
+		"location": "Henryetta, Oklahoma",
+		"date": "25-Dec-1907",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "After the lynching of an African American, the white mob warned all AAs to leave the town within 48 hours.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC19071226.2.100&srpos=2&e=-------en--20--1--txt-txIN-%22Negroes+flee%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.762976,38.545076]
+		},
+	"properties": {
+		"title": "Birmingham whippings",
+		"location": "Birmingham, Marshall County, Kentucky",
+		"date": "4-Jan-1908",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "Conviction of a 'night rider' who was part of white group that killed an elderly African American and his granddaughter. He was also charged with 'whipping several negroes",
+		"source": "http://nwspprs.com/1j9mu"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.4644,35.4329]
+		},
+	"properties": {
+		"title": "Bryson riots",
+		"location": "Bryson, North Carolina",
+		"date": "1-Mar-1908",
+		"fatalities": "5",
+		"refugees": "unknown",
+		"narrative": "After an altercation between whites and blacks 'the Bryson City town council and Swain County commissioners took action immediately after the affray, passing a curfew applicable only to the African-American population, requiring them to be off the streets of town by 9:00 pm.  Any who were not would be arrested.",
+		"source": "http://goo.gl/VI9Y9i"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-93.940858,29.881613]
+		},
+	"properties": {
+		"title": "Sabine County Pogrom",
+		"location": "Sabine County, Texas",
+		"date": "24-Jun-1908",
+		"fatalities": "10",
+		"refugees": "1000",
+		"narrative": "10 African Americans were lynched, 50 were beaten and 1,000 fled to Louisiana after being threatened with death.",
+		"source": "http://nwspprs.com/1j9t0"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.648801,39.800698]
+		},
+	"properties": {
+		"title": "Springfield Race Riot",
+		"location": "Springfield, Illinois",
+		"date": "14-Aug-1908",
+		"fatalities": "6",
+		"refugees": "2500",
+		"narrative": "The mob burned black-owned homes in the Badlands, destroying a four-block area and doing much damage to neighboring streets.[8] They encountered Scott Burton, an African American who owned his barber shop and had only whites as clients. Burton defended his business by firing a warning shot; the mob killed him with return fire. They burned his shop and dragged his body to a nearby saloon, hanging it outside from a tree.' Leads to the formation of the NAACP.",
+		"source": "http://goo.gl/ZVRLWY"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-95.0965,31.813578]
+		},
+	"properties": {
+		"title": "Big Springs 'Sundown Town' ",
+		"location": "Big Springs, Rusk County, Texas",
+		"date": "11-Feb-1909",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "A large mob of whites chased a Minstrel act out of town. The reason offered by a Texan newspaper was that 'the attack resulted from the bitter feeling here against the negro race resulting from a race riot two years ago, since which time a ban has been placed on the negro coming here.",
+		"source": "http://chroniclingamerica.loc.gov/lccn/sn86090383/1909-11-02/ed-1/seq-1/#date1=1836&index=4&rows=20&words=attacked+negroes&searchType=basic&sequence=0&state=&date2=1922&proxtext=%22negroes+attacked%22&y=0&x=0&dateFilterType=yearRange&page=1"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.163042,37.474268]
+		},
+	"properties": {
+		"title": "Anna 'Sundown' Town",
+		"location": "Anna, Illinois",
+		"date": "11-Aug-1909",
+		"fatalities": "1",
+		"refugees": "300",
+		"narrative": "After a lynching the 'mob of angry white citizens drove out Anna's 40 or so black families...",
+		"source": "http://goo.gl/qvzJ6r"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.95786,37.274175]
+		},
+	"properties": {
+		"title": "Jack Johnson-James Jeffries Fight Riots",
+		"location": "Roanoke, Virginia",
+		"date": "7-Apr-1910",
+		"fatalities": "25",
+		"refugees": "unknown",
+		"narrative": "Jack Johnson's defeat of James Jeffries triggers race riots instigated by angry whites nationwide, 25+ cities affected. Roanoke, Virginia just one of them.",
+		"source": "http://goo.gl/YkcVRE"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.348706,36.912599]
+		},
+	"properties": {
+		"title": "Charleston exodus",
+		"location": "South Street, Reid St, Charleston, Missouri",
+		"date": "7-Apr-1910",
+		"fatalities": "2",
+		"refugees": "100+?",
+		"narrative": "Two lynchings and an attempted third leads to an 'exodus' of African Americans from Charleston.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=SFC19100705.2.17&srpos=4&e=-------en--20--1--txt-txIN-%22Negroes+flee%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-95.462173,31.631286]
+		},
+	"properties": {
+		"title": "Slocum Massacre",
+		"location": "Slocum, Texas",
+		"date": "29-Jul-1910",
+		"fatalities": "8-100+",
+		"refugees": "1,000",
+		"narrative": "A successful, self-sufficient African American community was the subject of a terrorist attack designed to maintain economic white supremacy.",
+		"source": "http://goo.gl/51jLXj"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.39,33.09]
+		},
+	"properties": {
+		"title": "Pike County whippings",
+		"location": "Pike County, Georgia",
+		"date": "16-Dec-1910",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "A campaign of terror by white groups (White Caps or KKK) which resulted in 30 African Americans being whipped and told to leave the area. White terrorist group sought to control labour market.",
+		"source": "http://nwspprs.com/1hphn"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-68.273154,46.011345]
+		},
+	"properties": {
+		"title": "Malaga Island",
+		"location": "Malaga Island, Maine",
+		"date": "12-Jan-1911",
+		"fatalities": "0",
+		"refugees": "40",
+		"narrative": "Interracial' (native American/black) settlement whose residents were forcibly removed by the state, using mental health as a pretext.",
+		"source": "http://goo.gl/Bkz26B"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-94.37,32.55]
+		},
+	"properties": {
+		"title": "Harrison election whippings",
+		"location": "Harrison County, Texas",
+		"date": "21-Jul-1911",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "A campaign of terror in which groups of white men collectively punished, by whipping, African Americans to prevent them casting a vote in the election.",
+		"source": "http://nwspprs.com/1hozt"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.179203,35.210571]
+		},
+	"properties": {
+		"title": "The Cotton Seed Burnings",
+		"location": "Savannah, Tennessee",
+		"date": "12-Aug-1911",
+		"fatalities": "3",
+		"refugees": "N/A",
+		"narrative": "Three African Americans were burned alive tied to a wagon of cotton seed by a white mob who objected to their presence.",
+		"source": "http://nwspprs.com/285ml"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.526927,31.203393]
+		},
+	"properties": {
+		"title": "Pineville riot",
+		"location": "Pineville, Louisiana",
+		"date": "21-Sep-1911",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "A mob of about 300 white people [demonstrated against the black community]...two negroes were shot, one of them seriously. A great many shots were fired and the negroes in Pineville were completely terrorized.' A unknown number left the town after this.",
+		"source": "http://goo.gl/IUaZkV"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-95.674795,36.002092]
+		},
+	"properties": {
+		"title": "Coweta race riot",
+		"location": "Coweta, Oklahoma",
+		"date": "22-Oct-1911",
+		"fatalities": "2",
+		"refugees": "At least 100+ on the first night",
+		"narrative": "African American population was reported to be 33% of the town in 1911. In 2000 it was just 4%. Further study needed.",
+		"source": "http://goo.gl/MlrtHP"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.915021,33.025944]
+		},
+	"properties": {
+		"title": "Forsyth County Pogrom",
+		"location": "Forsyth County, Georgia",
+		"date": "9-Oct-1912",
+		"fatalities": "1",
+		"refugees": "1,000",
+		"narrative": "Campaign of terror across Northern Georgia, 'racial cleansing'; white mobs burnt black churches and homes. Those that employed black workers were threatened. Those who did not leave fast enough were told they would be shot. An estimated 98% of African Americans in the County had left by the time the campaign ended.",
+		"source": "https://goo.gl/boM436"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-91.056503,31.731988]
+		},
+	"properties": {
+		"title": "Fayette riots",
+		"location": "Fayette, Mississippi",
+		"date": "29-Sep-1913",
+		"fatalities": "13",
+		"refugees": "unknown",
+		"narrative": "Thirteen persons, including the sherriff and a constable, were killed in race riots here.",
+		"source": "http://goo.gl/ev3fgf"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.038836,42.839951]
+		},
+	"properties": {
+		"title": "Romeo riot",
+		"location": "Romeo, Michigan",
+		"date": "9-Oct-1913",
+		"fatalities": "1",
+		"refugees": "unknown",
+		"narrative": "Romeo is given as being in Michigan, but also - erroneously I think - in Illinois",
+		"source": "http://goo.gl/56s7en"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.84141,36.32061]
+		},
+	"properties": {
+		"title": "Stewart County whippings",
+		"location": "Stewart County, Tennessee",
+		"date": "12-Feb-1915",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "In a night rider raid several negroes were brutally whipped [and] a [negro] church was burned.",
+		"source": "http://nwspprs.com/1hukj"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.52785,36.58645]
+		},
+	"properties": {
+		"title": "New Madrid intimidations",
+		"location": "New Madrid, Missouri",
+		"date": "20-Feb-1915",
+		"fatalities": "0",
+		"refugees": "300",
+		"narrative": "The negroes are warned to leave [the county] or be killed.",
+		"source": "http://goo.gl/WRGgLJ"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.74953,36.23368]
+		},
+	"properties": {
+		"title": "Hayti intimidations",
+		"location": "Hayti, Missouri",
+		"date": "4-Mar-1915",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Whitecapping - campaign of intimidation. Notices posted in city ordering African Americans to leave and tells the white community not to employ African Americans.",
+		"source": "http://goo.gl/qrtXyv"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-97.308819,34.759696]
+		},
+	"properties": {
+		"title": "Pauls Valley intimidations",
+		"location": "Pauls Valley, Oklahoma",
+		"date": "17-Mar-1915",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "African American community threatened with violence by a white mob. This was an attempt to prevent them exercising their democratic franchise.",
+		"source": "http://goo.gl/o5P2XF"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.901178,31.346088]
+		},
+	"properties": {
+		"title": "Blakely killings",
+		"location": "Blakely, Georgia",
+		"date": "30-Dec-1915",
+		"fatalities": "8",
+		"refugees": "Unknown",
+		"narrative": "After a white plantation overseer was apparently killed by two African Americans, a white posse was formed which proceeded to kill five in response as well as burning two African Americans to death in their cabin.",
+		"source": "http://goo.gl/XwnN2W"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.62213,41.88531]
+		},
+	"properties": {
+		"title": "Jackson Park Beach race riot",
+		"location": "Jackson Park beach, Stony Island Ave, Chicago",
+		"date": "29-Jul-1916",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Headline: '200 White men attack 10 Negro men and women while 3,000 watch.",
+		"source": "http://goo.gl/hjQ5Z4"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.564624,29.687249]
+		},
+	"properties": {
+		"title": "Newberry Mass Lynching",
+		"location": "Newberry, Florida",
+		"date": "19-Aug-1916",
+		"fatalities": "8",
+		"refugees": "Unknown",
+		"narrative": "In 1916 Constable George Wynne, a white man, was shot and killed by a black man named Boisey Long near Newberry. This killing led to the largest known lynching in Florida history when as many as eight blacks were murdered by rampaging whites.  Boisey Long temporarily escaped, was later found, tried and hung.  Most of those who were lynched were hung from a huge 'hanging tree' in a place that is stilled called Lynch Hammock, stands on Highway 24 right outside the city. Long's family members, including his pregnant wife Stella Young and unborn child, made up the majority of those lynched. Members of the powerful Dudley family were believed to have been involved in the mass killing as Constable Wynne was the brother of the matriarch of the Dudley family. Four of her sons and many other influential whites were photographed with the bodies of the victims.  The ropes used in the lynchings were reportedly tied in the kitchen of the Dudley farmhouse. The Dudley Farm is now a state park recreating early Florida Cracker life.",
+		"source": "http://florida-lynchings.com/newberry.html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-96.865969,37.830491]
+		},
+	"properties": {
+		"title": "El Dorado race riot",
+		"location": "El Dorado, Kansas",
+		"date": "12-Dec-1916",
+		"fatalities": "Unknown",
+		"refugees": "150",
+		"narrative": "A white mob 300-strong was reported to be 'chasing negroes out of the city.' They destroyed black businesses and more than '150 negroes were rounded up and driven from the city.",
+		"source": "http://nwspprs.com/1hk5r"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.140016,38.644405]
+		},
+	"properties": {
+		"title": "East St. Louis Massacre",
+		"location": "East St. Louis, Illinois",
+		"date": "7-Feb-1917",
+		"fatalities": "100",
+		"refugees": "6,000",
+		"narrative": "This is a massacre that will go down in history as one of the bloodiest outrages against mankind for which any class of people could be held guilty.' - Marcus Garvey",
+		"source": "http://goo.gl/NnR0VG"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.378098,39.848163]
+		},
+	"properties": {
+		"title": "Chester race riot",
+		"location": "Chester, Pennsylvania",
+		"date": "27-Jul-1917",
+		"fatalities": "5",
+		"refugees": "unknown",
+		"narrative": "3 African Americans and 2 whites were killed. Altercation between some individuals was superficial pretext for riot. According to the New York Times a 'white mob [invaded] the negro settlement.' Two African Americans seen mingling with white passengers in a trolley car were attacked, one of them shot dead.",
+		"source": "http://goo.gl/gWDrF9"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.61645,38.037847]
+		},
+	"properties": {
+		"title": "Lexington riot",
+		"location": "Lexington, Kentucky",
+		"date": "1-Sep-1917",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "At least ten African Americans injured after an altercation with the Kentucky National Guard.",
+		"source": "http://goo.gl/3LBB2J"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-95.93554,36.79592]
+		},
+	"properties": {
+		"title": "Dewey riot",
+		"location": "Dewey, Oklahoma",
+		"date": "9-Jan-1918",
+		"fatalities": "0",
+		"refugees": "100",
+		"narrative": "In 1918 20 [African American] families were burnt out of Dewey in northeastern Oklahoma..' this collective punishment apparently followed the killing of the local Marshal by an African American. 'Little Africa' was burnt to the ground.",
+		"source": "https://goo.gl/dJQU93"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.11787,40.001811]
+		},
+	"properties": {
+		"title": "Philidelphia race attack",
+		"location": "Philadelphia, Pennsylvania",
+		"date": "29-Jun-1918",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "small incident of 2 family homes being attacked and burned, first major incident lead to G. Grant Williams, of the 'Philadelphia Tribune to write an editorial 'Dixie Methods in Philadelphia",
+		"source": "http://goo.gl/Ohg0yr"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.11787,40.001811]
+		},
+	"properties": {
+		"title": "Philidelphia race riot",
+		"location": "Philidelphia, Pennsylvania",
+		"date": "26-Jul-1918",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "One white rioter (Joseph Kelly) shot by a 'Mrs. Adella Bond' whom the riots were targetting. Unrest lasted in the city until the 30th.",
+		"source": "http://goo.gl/KQMkEm"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-73.9768,40.9413]
+		},
+	"properties": {
+		"title": "Camp Merritt race riot",
+		"location": "Camp Merritt, New Jersey",
+		"date": "18-Aug-1918",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "Riot for segregation at military camp",
+		"source": "https://goo.gl/M8XGTc"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.901178,31.346088]
+		},
+	"properties": {
+		"title": "Blakely race riot",
+		"location": "Blakely, Georgia",
+		"date": "8-Feb-1919",
+		"fatalities": "4",
+		"refugees": "unknown",
+		"narrative": "Blakely witnessed white on black violence due to prejudice against returning African American soldiers. Lynching of returning soldier William Little in April 1919.",
+		"source": "http://goo.gl/3Hp6Di"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.973904,32.779376]
+		},
+	"properties": {
+		"title": "Mullen race riot",
+		"location": "Mullen, Georgia",
+		"date": "15-Apr-1919",
+		"fatalities": "7",
+		"refugees": "unknown",
+		"narrative": "Seven reported killed in race riot",
+		"source": "http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9C04E7D61F30E033A25756C0A9669D946896D6CF&oref=slogin"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.850054,31.603336]
+		},
+	"properties": {
+		"title": "Sylvester race riot",
+		"location": "Sylvester, Georgia",
+		"date": "10-May-1919",
+		"fatalities": "1",
+		"refugees": "unknown",
+		"narrative": "Mentioned in Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9C04E7D61F30E033A25756C0A9669D946896D6CF&oref=slogin"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.417971,32.258767]
+		},
+	"properties": {
+		"title": "Putnam race riot",
+		"location": "Putnam County, Georgia",
+		"date": "29-May-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.161012,31.540111]
+		},
+	"properties": {
+		"title": "Monticello race riots",
+		"location": "Monticello, Mississippi",
+		"date": "31-May-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-72.09952,41.35565]
+		},
+	"properties": {
+		"title": "New London race riot",
+		"location": "New London, Connecticut",
+		"date": "13-Jun-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-76.5528,38.98775]
+		},
+	"properties": {
+		"title": "Annapolis race riot",
+		"location": "Annapolis, Maryland",
+		"date": "27-Jun-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.54474,33.125769]
+		},
+	"properties": {
+		"title": "Macon race riots",
+		"location": "Macon, Mississippi",
+		"date": "27-Jun-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-109.92841,31.44815]
+		},
+	"properties": {
+		"title": "Bisbee riot (aka Battle of Brewery Gulch)",
+		"location": "Bisbee, Arizona",
+		"date": "3-Jul-1919",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "Conflict between Military Police and members of the 'Buffalo Soldiers'; 6+ wounded, 50+ African Americans arrested.",
+		"source": "http://en.wikipedia.org/wiki/Bisbee_Riot"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.938121,32.459291]
+		},
+	"properties": {
+		"title": "Dublin Race riot",
+		"location": "Dublin, Georgia",
+		"date": "6-Jul-1919",
+		"fatalities": "2",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.146365,39.943295]
+		},
+	"properties": {
+		"title": "Philidelphia race riot",
+		"location": "Philidelphia, Pennsylvania",
+		"date": "7-Jul-1919",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "6 arrests at a race riot at a carnival.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.829163,39.968862]
+		},
+	"properties": {
+		"title": "Coatesville",
+		"location": "Coatesville, Pennsylvania",
+		"date": "8-Jul-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.616169,33.170238]
+		},
+	"properties": {
+		"title": "Tuscaloosa race riot",
+		"location": "Tuscaloosa, Alabama",
+		"date": "9-Jul-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-94.730285,32.517846]
+		},
+	"properties": {
+		"title": "Longview race riot",
+		"location": "Longview, Texas",
+		"date": "10-Jul-1919",
+		"fatalities": "1",
+		"refugees": "unknown",
+		"narrative": "Start of Riot: 'About midnight a gang of twelve to fifteen white men, ranging in age from nineteen to forty, gathered at Bodie Park at he southwest corner of Tyler and Fredonia Streets.  As they talked about the events of the day they decided to pay Jones an unfriendly visit. About 1:00 a.m. they drove their cars into the black section of town to Jones’ house on the southeast corner of Harrison and College Streets.",
+		"source": "http://goo.gl/7jEiri"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-76.597214,39.285418]
+		},
+	"properties": {
+		"title": "Baltimore race riot",
+		"location": "Baltimore, Maryland",
+		"date": "11-Jul-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-93.964278,29.870904]
+		},
+	"properties": {
+		"title": "Port Arthur race riot",
+		"location": "Port Arthur, Texas",
+		"date": "15-Jul-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-77.016719,38.911936]
+		},
+	"properties": {
+		"title": "Washington race riot",
+		"location": "Washington D.C.",
+		"date": "19-Jul-1919",
+		"fatalities": "6",
+		"refugees": "unknown",
+		"narrative": "50 wounded, riots went unchecked from 19-23-Jul",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-76.208521,36.895911]
+		},
+	"properties": {
+		"title": "Norfolk V.A. race riot",
+		"location": "Norfolk, Virginia",
+		"date": "21-Jul-1919",
+		"fatalities": "6",
+		"refugees": "unknown",
+		"narrative": "Homecoming of two black soldiers was suspended because of riots and the Marines were called in.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-76.197701,43.02143]
+		},
+	"properties": {
+		"title": "Syracuse race riot",
+		"location": "Syracuse, New York",
+		"date": "21-Jul-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.077,29.958304]
+		},
+	"properties": {
+		"title": "New Orleans race riot",
+		"location": "New Orleans, Louisiana",
+		"date": "23-Jul-1919",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "AP reported some kind of incident between blacks and whites, police intervened",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-85.844132,33.621493]
+		},
+	"properties": {
+		"title": "Hobson city race riot",
+		"location": "Hobson city, Alabama",
+		"date": "26-Jul-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.62213,41.88531]
+		},
+	"properties": {
+		"title": "Chicago race riot",
+		"location": "Chicago, Illinois",
+		"date": "27-Jul-1919",
+		"fatalities": "38",
+		"refugees": "unknown",
+		"narrative": "Casualties comprised of 23 blacks and 15 whites. 600+ injured",
+		"source": "http://goo.gl/fFM4mv"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.435094,39.07881]
+		},
+	"properties": {
+		"title": "Bloomington race riots",
+		"location": "Bloomington, Indiana",
+		"date": "31-Jul-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.656138,32.686471]
+		},
+	"properties": {
+		"title": "Hattlesburg race riot",
+		"location": "Hattlesburg, Mississippi",
+		"date": "4-Aug-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-94.177354,33.411321]
+		},
+	"properties": {
+		"title": "Texarkana race riot",
+		"location": "Texarkana, Texas",
+		"date": "6-Aug-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-73.996328,40.750422]
+		},
+	"properties": {
+		"title": "New York",
+		"location": "New York, New York",
+		"date": "21-Aug-1919",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Detail to be added.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.608333,32.836667]
+		},
+	"properties": {
+		"title": "Ocmulgee race riot",
+		"location": "Ocmulgee, Georgia",
+		"date": "29-Aug-1919",
+		"fatalities": "1",
+		"refugees": "unknown",
+		"narrative": "from Dr. Haynes Oct 1919 report. Eli Cooper 'thought to have been leader among the negroes' was executed.",
+		"source": "http://goo.gl/fNI9j3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.884804,36.032334]
+		},
+	"properties": {
+		"title": "Knoxville riot",
+		"location": "Knoxville, Tennessee",
+		"date": "30-Aug-1919",
+		"fatalities": "Unknown",
+		"refugees": "200",
+		"narrative": "Number of dead varies. From 2 to hundreds. Bodies apparently thrown into the river or buried in mass grave. Tennessee National Guard took part in the assualt on the African American neighbourhood.",
+		"source": "https://goo.gl/UOTzRv"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-96.171104,41.291736]
+		},
+	"properties": {
+		"title": "Omaha race riot",
+		"location": "Omaha, Nebraska",
+		"date": "28-Sep-1919",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "Between 5,000 and 15,000 white rioters surrounded courthouse. They succeeded in apprehending and then lynching Will Brown. Horrific photographs of his burning exist. They also attempted to hang the Mayor. The rioters stole up to 1,000 firearms while looting. Black citizens were indiscriminately dragged from street cars and beaten.",
+		"source": "https://goo.gl/goQM0S"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.893927,34.311793]
+		},
+	"properties": {
+		"title": "Elaine Massacre",
+		"location": "Elaine, Arkansas",
+		"date": "30-Sep-1919",
+		"fatalities": "100-200+",
+		"refugees": "Unknown",
+		"narrative": "It is documented that five whites, including a soldier died at Elaine, but estimates of African American deaths, made by individuals writing about the Elaine affair between 1919 and 1925, range from 20 to 856; if accurate, these numbers would make it by far the most deadly conflict in the history of the United States.",
+		"source": "https://goo.gl/CE5vIq"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.940844,32.780326]
+		},
+	"properties": {
+		"title": "Charleston race riot",
+		"location": "Charleston, South Carolina",
+		"date": "5-Oct-1919",
+		"fatalities": "3",
+		"refugees": "unknown (40+ African Americans were shot and beaten by the mob)",
+		"narrative": "A fight between between local blacks and a group of white Navy sailors which began inside a pool hall spilled into the streets.  “In the ensuing melee, two white sailors, George Holloday and Jacob Cohen, shot and killed Isaac Doctor, an unarmed black man who was likely involved in the initial scuffle inside.”  Soon, a full scale riot broke out as the sailors chased the crowd of black men into Charleston’s segregated district. “As the mob gave chase down King and Meeting streets…sailors broke into two local shooting galleries and armed themselves with small caliber rifles and ammunition. Once fully armed, members of the mob fired indiscriminately into crowds of black people ducking into alleyways and scurrying for cover.” Reported to be “several thousand” strong, the mob controlled the downtown area by midnight.  By then, Black Charlestonians had armed themselves to fight back. The Marines were called in to restore order. Source: Peter Lau, Democracy Rising: South Carolina and the Fight for Black Equality since 1865 (Lexington: University of Kentucky Press, 2006), 50-53.",
+		"source": "https://goo.gl/Eb785n"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.184688,36.854371]
+		},
+	"properties": {
+		"title": "Corbin race riot",
+		"location": "Corbin, Kentucky",
+		"date": "30-Oct-1919",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "On October 29, 1919, in the railroad town of Corbin, KY, a white man was attacked and robbed by two white men with painted black faces. The next day a vigilante mob took revenge on the African American community, searching homes and businesses and eventually forcing the African American railroad workers into boxcars and shipping them south to Knoxville.",
+		"source": "http://nkaa.uky.edu/record.php?note_id=1215"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-84.61645,38.037847]
+		},
+	"properties": {
+		"title": "Lexington riot",
+		"location": "Lexington, Kentucky",
+		"date": "11-Feb-1920",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "A mob at Lexington, Kentucky, seeking to lynch a negro murdered, sacked the courthouse, looted the shops, and fought the soldiers. Four persons were killed. The negro, who had been sen tenced to death, was secreted in an other city. [full text]",
+		"source": "http://goo.gl/5Ik71a"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.530251,28.569438]
+		},
+	"properties": {
+		"title": "Ocoee Massacre",
+		"location": "Ocoee, Florida",
+		"date": "11-Feb-1920",
+		"fatalities": "35",
+		"refugees": "500",
+		"narrative": "Florida's Election Day in 1920 was the single bloodiest day in modern American political history. African Americans throughout Florida who were trying to register as well as to vote were beaten, driven out of their home counties, and assassinated.",
+		"source": "http://goo.gl/jaqwi7"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.001934,47.005566]
+		},
+	"properties": {
+		"title": "Duluth Lynchings",
+		"location": "Duluth, Minnesota",
+		"date": "15-Jun-1920",
+		"fatalities": "3",
+		"refugees": "N/A",
+		"narrative": "Police arrest a group of black circus workers who were wrongly accused of raping a white woman. On the evening of June 15, 1920 a mob of 5,000 - 10,000 pull three of them out of the jail. They are dragged through a crowd that beats and subsequently hangs them from a lamp post.",
+		"source": "http://www.claytonjacksonmcghie.org/?page_id=122"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-78.185544,36.449642]
+		},
+	"properties": {
+		"title": "Norlina riot",
+		"location": "Norlina, North Carolina",
+		"date": "22-Jan-1921",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "After altercation between whites and blacks, 13 African Americans were arrested, 0 whites. Afterwards a white mob surrounded the prison as they planned to lynch all 13.",
+		"source": "http://nwspprs.com/1oshm"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-80.65135,40.225862]
+		},
+	"properties": {
+		"title": "Beech Bottom Race Riot",
+		"location": "Beech Bottom, West Virginia",
+		"date": "29-Apr-1921",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "The mob spirit developed soon after news was received in Beech Bottom of the outrage and many colored citizens were warned by friends that they had better leave the community. No violence was shown, however, till after dark when a crowd collected and made a tour of the colored section. Families were roused from their beds and informed that they had till noon Sunday to get out, these warnings bringing punctuated with a fusillade of shot. From one refugee, a woman who with two small children, is now staying at the Veise Hotel on Market street, it was learned that the mob numbered at times 75 men and boys, some of the latter appearing not more than 14 years old, and all armed with rifles, revolvers and shot-guns.",
+		"source": "http://goo.gl/IodUrA"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-95.868667,36.039147]
+		},
+	"properties": {
+		"title": "Tulsa Pogrom",
+		"location": "Tulsa, Oklahoma",
+		"date": "31-May-1921",
+		"fatalities": "50-300+",
+		"refugees": "10,000",
+		"narrative": "The Tulsa pogrom 'resulted in the Greenwood District, also known as 'the Black Wall Street' and the wealthiest black community in the United States, being burned to the ground. During the 16 hours of the assault, more than 800 people were admitted to local white hospitals with injuries (the two black hospitals were burned down), and police arrested and detained more than 6,000 black Greenwood residents at three local facilities.[2]:108–109 An estimated 10,000 blacks were left homeless, and 35 city blocks composed of 1,256 residences were destroyed by fire. The official count of the dead by the Oklahoma Department of Vital Statistics was 39, but other estimates of black fatalities vary from 55 to about 300.",
+		"source": "http://goo.gl/mNSiyd"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.373291,28.545179]
+		},
+	"properties": {
+		"title": "Longwood whippings",
+		"location": "Longwood, Orlando, Florida",
+		"date": "13-Aug-1921",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Two African Americans were abducted, detained and whipped by a group of masked men (KKK)",
+		"source": "http://nwspprs.com/1hpj4"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.79,29.28]
+		},
+	"properties": {
+		"title": "Rosewood Massacre",
+		"location": "Rosewood, Florida",
+		"date": "1-Jan-1923",
+		"fatalities": "7",
+		"refugees": "150",
+		"narrative": "Summary from Blackpast.org: 'On January 1, 1923 a massacre was carried out in the small, predominantly black town of Rosewood in Central Florida. The massacre was instigated by the rumor that a white woman, Fanny Taylor, had been sexually assaulted by a black man in her home in a nearby community.  A group of white men, believing this rapist to be a recently escaped convict named Jesse Hunter who was hiding in Rosewood, assembled to capture this man. Prior this event a series of incidents had stirred racial tensions within Rosewood.  During the previous winter of 1922 a white school teacher from Perry had been murdered and on New Years Eve of 1922 there was a Ku Klux Klan rally held in Gainesville, located not far away from Rosewood.",
+		"source": "https://goo.gl/2IuueZ"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.443566,39.877847]
+		},
+	"properties": {
+		"title": "Blanford riot",
+		"location": "Blanford, Indiana",
+		"date": "30-Jan-1923",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "White mob opened fire on African American shopkeepers after alleged rape case in the town.",
+		"source": "http://goo.gl/Gy6nSA"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.07,35.913611]
+		},
+	"properties": {
+		"title": "Spruce Pine Pogrom",
+		"location": "Spruce Pine, Mitchell County, North Carolina",
+		"date": "26-Sep-1923",
+		"fatalities": "Unknown",
+		"refugees": "100",
+		"narrative": "In conjunction with the arrest and trial of a black man alleged to have raped a white woman, armed local men rounded up every Black person (men, women, children) they could find in the county, forced them into boxcars on a south-bound railroad train, and sent them south into neighbouring South Carolina. Subsequently, the governor of NC sent several contingents of troops into the region to try to maintain order. These deployments are no doubt detailed in state archives. As the result of the forced expulsions, there were reportedly no Blacks left in the county. People of African-American ancestry are a very small minority in the county today.",
+		"source": "http://goo.gl/8ewSd4"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.698319,37.824778]
+		},
+	"properties": {
+		"title": "Dix River Dam project riot",
+		"location": "Dix Dam, Kentucky",
+		"date": "11-Nov-1924",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "300-500 of 700 African American workers driven off site",
+		"source": "http://nkaa.uky.edu/record.php?note_id=1553"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.69588,33.554433]
+		},
+	"properties": {
+		"title": "Lowman Lynchings",
+		"location": "Aiken, South Carolina",
+		"date": "25-Apr-1925",
+		"fatalities": "4",
+		"refugees": "1",
+		"narrative": "On April 25, 1925, Aiken sheriff H.H. Howard received an allegedly anonymous tip that the Lowman family was selling whiskey.  Accompanied by three deputies, the sheriff made his way to the Lowman home armed, supposedly, with a legal search warrant to investigate.  As the four plainly dressed men approached the home, Sam Lowman, the black sharecropper who owned the home and surrounding farm, was away having cornmeal ground at the local mill.  His wife, Annie, and daughter, Bertha, were at work either inside the house or in the yard nearby.  Shortly after the law enforcement officers arrived, Lowman’s son, Demon, and nephew, Clarence, who had been plowing a field some one hundred yards away, ran to the house to assist the family members inside.  In the brief moments that followed, gunshots were exchanged.  Demon, Bertha, and Clarence were shot, and Sheriff Howard and Annie Lowman died. The three Lowman children, and two other family members were arrested and all five were promptly tried on charges of murder.  Demon, Clarence, and Bertha were each convicted.  The fourteen-year-old Clarence and his cousin Demon were sentenced to die and Bertha was sentenced to life in prison. Sam Lowman received a two-year sentence on the chain gang.  Later that month, N.J. Frederick, one of the only African American lawyers in SC and a leading NAACP official, defended the Lowmans and convinced the state Supreme Court to order a new trial.  On October 5, 1926, he won a directed verdict of “not guilty” for Demon Lowman and had poked holes in the cases against Clarence and Bertha. After the trial, Demon was arrested on new charges and the three Lowman youths were returned to the Aiken jail.  In the early morning hours, a white mob, assisted by Aiken deputies, removed them from the jail and drove them to an old tourist camp outside of Aiken where a large crowd had gathered.  After being ordered to line up and run, they were shot down by members of the mob.  Despite national outrage, the killers were never brought to justice. Source: Peter Lau, Democracy Rising: South Carolina and the Fight for Black Equality since 1865 (Lexington: University of Kentucky Press, 2006), 58-59.",
+		"source": ""
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-95.61637,37.0373]
+		},
+	"properties": {
+		"title": "Coffeeville race riot",
+		"location": "Coffeeville, Kansas",
+		"date": "18-Mar-1927",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "1,000 whites attempted to invade the Negro district..guns and ammunition [were stolen from shops]...several Negroes were beaten on the streets' but the attacked was repulsed by gunfire from the African American district. A local cavalry company was deployed to keep the white rioters back.",
+		"source": "http://goo.gl/VtrZOb"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.280049,34.746905]
+		},
+	"properties": {
+		"title": "Little Rock lynching and race riot",
+		"location": "Little Rock, Arkansas",
+		"date": "5-May-1927",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "Victim was later burned 'in the middle of the negro district'; perpetrated by over 1,000 white men",
+		"source": "http://goo.gl/AlMK6P"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-100.74907,41.102555]
+		},
+	"properties": {
+		"title": "North Platte Pogrom",
+		"location": "North Platte, Nebraska",
+		"date": "10-Jan-1929",
+		"fatalities": "Unknown",
+		"refugees": "200",
+		"narrative": "Because a Negro killed a police officer in a Nebraska town, the entire Negro population of over 200 was driven out, and had to go, regardless of salvaging of house-hold goods. This was after the murderer was trapped in a basement,which was drenched with gasolene and fired, the Negro defeating the proposed-torture by killing himself. The Nebraska mob, like mobs in he North, was not satisfied with singling-out the guilty man and giving him punishment of the kind usually meted out by mobs but directed its vengeance upon the entire [African American] population.",
+		"source": "http://goo.gl/2XG9C3"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-96.550405,33.604131]
+		},
+	"properties": {
+		"title": "Sherman riot",
+		"location": "Sherman, Texas",
+		"date": "5-Sep-1930",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "With dynamite and acetylene torches, the leaders of the [white] mob worked on the vault until they opened it just before midnight. More than 5,000 people filled the courthouse yard and lined an adjacent street. The militia had left. Hughes's body was thrown from the vault, then dragged behind a car to the front of a drugstore in the black business section, where it was hanged from a tree. The store furnishings were used to fuel a fire under the hanging corpse. The mob also burned down the drugstore and other businesses in the area and prevented firemen from saving the burning buildings. By daybreak of May 10, most of the town's black businesses, as well as a residence, lay in ashes. Among the businesses burned were the offices of a dentist, a doctor, and a civil rights lawyer, William J. Durham. After the mob subsided, a detachment of militia went to the area and cut down Hughes's charred body. The owners of two black undertaking establishments that had been destroyed were offered Hughes's remains, but because they no longer had operable places of business, the remains were turned over to a white undertaker. Hughes's remains were buried on the morning of May 10 near the Grayson county farm.",
+		"source": "https://goo.gl/qvjgIz"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.31448,32.7293]
+		},
+	"properties": {
+		"title": "Emmelle riot",
+		"location": "Emmelle, Alabama",
+		"date": "11-Sep-1930",
+		"fatalities": "4",
+		"refugees": "Unknown",
+		"narrative": "After a violent altercation between whites and blacks, the entire African American community was ordered to stay indoors 'for fear that the infuriated mob should vent its wrath in wholescale lynchings.",
+		"source": "http://goo.gl/299gsA"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.456783,38.35075]
+		},
+	"properties": {
+		"title": "Ste. Genevieve pogrom",
+		"location": "Ste. Genevieve, Missouri",
+		"date": "16-Oct-1930",
+		"fatalities": "unknown",
+		"refugees": "100",
+		"narrative": "In 1930 state troopers were twice called into the little town of Ste. Genevieve to prevent a triple lynching. The entire black population, with the exception of two families, left town after the threatened lynchings.",
+		"source": "http://goo.gl/ax4El2"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-85.985078,32.594995]
+		},
+	"properties": {
+		"title": "Tallasee riot",
+		"location": "Tallasee, Alabama",
+		"date": "21-Dec-1932",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "After a riot between white and black, only African Americans were arrested. Two subsequently died in police custody.",
+		"source": "http://nwspprs.com/1klrd"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-89.833228,32.33857]
+		},
+	"properties": {
+		"title": "Lynching of Henry Bedford",
+		"location": "Pelahatchee, Mississippi",
+		"date": "24-Jul-1934",
+		"fatalities": "1",
+		"refugees": "Unknown",
+		"narrative": "Henry Bedford, a black man, is taken from his home and flogged by white men for 'speaking disrespectfully to a young white man.' He dies on July 25. Four white men are arrested but no indictments are returned.",
+		"source": ""
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-75.75292,38.200553]
+		},
+	"properties": {
+		"title": "Princess Anne Pogrom",
+		"location": "Princess Anne, Maryland",
+		"date": "9-Aug-1934",
+		"fatalities": "Unknown",
+		"refugees": "Unknown (100+?)",
+		"narrative": "The negro population of this Maryland eastern shore town, where a negro was lynched less than a year ago, was driven from the streets tonight by angry white men , some of them armed with clubs , bricks and knives. Sheriff Luther Daugherty, who with several of his deputies hurried here from Crisfield, was told the trouble began when a negro and a white boy started to fight. A free-for-all fight developed attracting a hundred or more white persons and soon all negroes left the vicinity. For a short time there was quiet on the main street of the village until some one was reported to have suggested that negroes spending Saturday night in Princess Anne be run out of town. Almost immediately the white men, most of them young, began marching through the streets. Negroes, leaving hats and coats in their hurry, fled in all directions. A short while later they made a rush into negro towns and began scattering men, women, and children. Screaming and with blood on some of them , the negroes fled in all directions, on foot and in automobiles, the whites after them with fists, clubs, bricks, and knives. Some of the negroes fought back, but soon fled. How many persons were injured and whether any were killed could not immediately be learned.",
+		"source": "http://idnc.library.illinois.edu/cgi-bin/illinois?a=d&d=DIL19340909.2.3#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-79.016667,43.1]
+		},
+	"properties": {
+		"title": "Niagra Falls riot",
+		"location": "Niagra Falls, New York",
+		"date": "21-Aug-1934",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Source behind paywall. Copied here. 'Three persons were seriously injured and many slight injuries to-day in a furious race riot between 3.000 white people and negroes. Windows of shops and private houses were smashed. The riot was stated be the result of international workers’ meeting for rallying workers to aid negro arrested on charge of attacking a white girl. The police, however, state the real cause of the riot is the encroachment of the negroes on the east side district largely populated Polish Americans.—Reuter' Lancashire Evening Post - Tuesday 28 August 1934",
+		"source": "http://goo.gl/OOucf4"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.39151,34.4465]
+		},
+	"properties": {
+		"title": "Honea Path Massacre",
+		"location": "Honea Path, South Carolina",
+		"date": "6-Sep-1934",
+		"fatalities": "6",
+		"refugees": "Unknown (20+ wounded)",
+		"narrative": "In an area of textile mills developed in the early 20th century, Honea Path was the site of a violent confrontation of between textile union workers and company management on September 6, 1934 during a strike and efforts at labor organizing. Textile factory guards killed six picketers and injured approximately twenty more in the altercation. The men were reported to have been shot fleeing the picket lines, and many were found with bullet wounds in their backs.",
+		"source": "http://www.beachamjournal.com/journal/2009/09/chiquola-mill-shootings-the-75th-anniversary.html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.801904,33.456412]
+		},
+	"properties": {
+		"title": "Birmingham Mines Strike riot",
+		"location": "Birmingham, Alabama",
+		"date": "17-Sep-1934",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "Source behind paywall. Text copied here. 'COAL MINE RIOT. NEGROES KILLED IN BATTLE WITH POLICE. SOS FOR TROOPS. Two negroes have been killed and several injured in a riot at coal mine near Birmingham (Alabama), in which crowd of 2,000 waged battle with the police. The crowd swept through the village, taking men from their homes and beating them. The situation became so serious that the sheriff requested the Governor of Alabama to send troops.The crowd of miners which did the pillaging informed the police that they were fired upon when they entered an area where the United Mine Workers were holding rally.On the other hand, the deputy sheriffs declare that the firing started when the 'marchers' began forcing their way into the homes of negroes.—Reuter.' Nottingham Evening Post - Monday 17 September 1934",
+		"source": "http://goo.gl/EG516g"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.462357,35.486335]
+		},
+	"properties": {
+		"title": "Shelbyville riot",
+		"location": "Shelbyville, Tennessee",
+		"date": "13-Dec-1934",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Placename sometimes given as Selbyville. White mob destroys courthouse.",
+		"source": "http://goo.gl/jUIGPA"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.402871,34.848567]
+		},
+	"properties": {
+		"title": "Greenville Klan Violence",
+		"location": "Greenville County, South Carolina",
+		"date": "15-Sep-1939",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "Following a successful voter registration drive led by the Greenville NAACP, members of the Ku Klux Klan and law enforcement officers, many of whom were Klan members themselves, conducted a violent campaign of repression to maintain white supremacy. On September 24, in Fountain Inn, ten to fifteen carloads of heavily armed and robed Klansmen ransacked businesses and beat over twenty African Americans.  In nearby Simpsonville, a number of black men were beaten by Klansmen and a black woman was stripped of her clothes.  In early November, Klansmen pulled a black World War I veteran from his home, and for publicly criticizing the Klan, stripped him naked, lashed him mercilessly, and dumped his limp body on the front steps of the home of Joe Tolbert, the most prominent white Republican official in South Carolina. The leader of the voter registration drive, James Briar, barely escaped being victimized due to quick thinking by local blacks in Greenville who shuffled him from house to house throughout the week of November 15th.",
+		"source": "Peter Lau, Democracy Rising: South Carolina and the Fight for Black Equality since 1865 (Lexington: University of Kentucky Press, 2006), 58-59."
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-98.73535,40.78001]
+		},
+	"properties": {
+		"title": "Shelton Intimidations",
+		"location": "Shelton, Nebraska",
+		"date": "15-Jul-1940",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "African American workers who were brought to Shelton to work on a potato farm were threatened by local whites. A large mob gathered at their camp site. The African Americans fled 'into the darkness",
+		"source": "https://news.google.com/newspapers?nid=2199&dat=19400715&id=AChdAAAAIBAJ&sjid=2VoNAAAAIBAJ&pg=2711,868061&hl=en"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-92.467107,31.274156]
+		},
+	"properties": {
+		"title": "Alexandria Army Race Riot",
+		"location": "Alexandria, Louisiana",
+		"date": "10-Jan-1942",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "The rest of the country might be fighting World War II [...] but this little prejudice-ridden town, dipped in the dye of the Old South is still fighting the Civil War.",
+		"source": "https://goo.gl/xI0F7J"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-73.602746,40.71724]
+		},
+	"properties": {
+		"title": "Hempstead army riot",
+		"location": "Hempstead, New York",
+		"date": "9-May-1942",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Local police trigger violence by attacking black soldier",
+		"source": "https://goo.gl/lJvr5y"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.440688,36.778764]
+		},
+	"properties": {
+		"title": "Butler farmers riot",
+		"location": "Poplar Bluff, Missouri",
+		"date": "12-Jan-1943",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Farmers indicted for raising a riot against 'imported' Negro farm labourers",
+		"source": "https://goo.gl/mtLAOS"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-73.9465,40.8116]
+		},
+	"properties": {
+		"title": "Harlem Race Riot",
+		"location": "Harlem, New York",
+		"date": "8-Feb-1943",
+		"fatalities": "6",
+		"refugees": "Unknown",
+		"narrative": "Black soldier shot by police officer after inquiring about woman's arrest.",
+		"source": "https://goo.gl/jzRZdX"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-88.103184,30.701142]
+		},
+	"properties": {
+		"title": "Shipyard race riot",
+		"location": "Mobile, Alabama",
+		"date": "25-May-1943",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "5,000 African American shipyard workers were sent home after some were attacked by white workers who objected to their 'proximity'. This followed the promotion of 12 black workers and up to 4,000 white dock workers rioted, injuring dozens.",
+		"source": "http://goo.gl/4KXReE"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-94.109705,30.073712]
+		},
+	"properties": {
+		"title": "Beaumont race riot",
+		"location": "Beaumont, Texas",
+		"date": "15-Jun-1943",
+		"fatalities": "unknown",
+		"refugees": "unknown",
+		"narrative": "4 white men injured but 'one hospital [was] overflowing with Negroes who have been hurt...[white] mobs roamed the Negro section of the city...' They pulled some African Americans from their cars, whipped them and set the cars on fire. AAs were also excluded from work in the shipyard in Orange, located 26 miles from Beaumont, in response to the riot.",
+		"source": "http://nwspprs.com/1hk55"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.060184,42.347021]
+		},
+	"properties": {
+		"title": "Detroit Race Riot",
+		"location": "Detroit, Michigan",
+		"date": "20-Jun-1943",
+		"fatalities": "34",
+		"refugees": "Unknown",
+		"narrative": "Over the course of three days, 34 people were killed. Of them, 25 were African–Americans, 17 of whom were killed by the police. Thirteen murders remain unsolved. Out of the approximately 600 injured, black people accounted for more than 75 percent and of the roughly 1,800 people who were arrested over the course of the three-day riots, black people accounted for 85 percent.",
+		"source": "https://goo.gl/ngHnnV"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [144.77295,13.438296]
+		},
+	"properties": {
+		"title": "Agana Riot",
+		"location": "Agana, Guam",
+		"date": "25-Dec-1944",
+		"fatalities": "2",
+		"refugees": "Unknown",
+		"narrative": "White Marines opened fire on black Marines talking to local women",
+		"source": "https://goo.gl/4ZlBKP"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.713858,41.794276]
+		},
+	"properties": {
+		"title": "Airport Homes riots",
+		"location": "West Elsdon, Chicago, Illinois",
+		"date": "1-Jan-1946",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "Summary from Wikipedia: “Airport Homes” was the name of the site in nearby West Lawn established by the Chicago Housing Authority to provide temporary housing to returning veterans and their families during the postwar housing shortage. Residents of West Lawn and West Elsdon rioted and succeeded in intimidating a few black war veterans and their families from joining white veterans in the homes.",
+		"source": "https://goo.gl/7zIOVq"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.00404,35.623997]
+		},
+	"properties": {
+		"title": "Columbia Race Riot",
+		"location": "Columbia, Tennessee",
+		"date": "25-Feb-1946",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Black homes and businesses looted; over 100 Blacks arrested",
+		"source": "http://goo.gl/PYHQEM"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.103488,34.764976]
+		},
+	"properties": {
+		"title": "Athens race riot",
+		"location": "Athens, Alabama",
+		"date": "10-Aug-1946",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "50 to 100 African Americans were injured by a white mob of around 2,000 people.",
+		"source": "http://goo.gl/tU2aXC"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-82.657495,32.635692]
+		},
+	"properties": {
+		"title": "Wrightsville Intimidations",
+		"location": "Wrightsville, Georgia",
+		"date": "3-Feb-1948",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Three hundred robed Klansmen parade, declaring that 'blood will flow in the streets of the South' if blacks seek equality. On March 3, election day, not one of the town's 400 registered African Americans attempts to vote.' Source: 'The Great Long National Shame': Selected incidents of racial violence in the United States, Peter Lang AG (Counterpoints, Vol. 163, 2001)",
+		"source": ""
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.184201,32.289656]
+		},
+	"properties": {
+		"title": "Governor threatens Black Community",
+		"location": "Jackson, Mississippi",
+		"date": "5-Sep-1948",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Gov. Fielding Wright, in a radio address, urges those Mississippi blacks seeking equality to 'make your home in some state other than Mississippi' (Source: Newton and Newton, 1991, p. 424)",
+		"source": ""
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-83.423511,32.629579]
+		},
+	"properties": {
+		"title": "Dade County whippings",
+		"location": "Dade County, Georgia",
+		"date": "4-Apr-1949",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "The KKK took seven African Americans from the sheriff and whipped them.",
+		"source": "http://nwspprs.com/1jdrw"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.19231,38.631501]
+		},
+	"properties": {
+		"title": "Fairgrounds Park Riots",
+		"location": "St. Louis, Missouri",
+		"date": "25-Jun-1949",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "200 strong white mob surround and attack 40 black swimmers at public pool.",
+		"source": "https://goo.gl/AJgRwA"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.62213,41.88531]
+		},
+	"properties": {
+		"title": "Fernwood Park riot",
+		"location": "Chicago, Illinois",
+		"date": "15-Aug-1949",
+		"fatalities": "Unknown",
+		"refugees": "Unknown",
+		"narrative": "White mob started violently oppossed the introduction of black residents to the area. Lasted for three days. Police did not intervene with any effectiveness.",
+		"source": "https://goo.gl/8ddlj5"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-73.92042,41.29009]
+		},
+	"properties": {
+		"title": "Peekskill Riots",
+		"location": "Peekskill, New York",
+		"date": "27-Aug-1949",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "anti-Paul Robeson, anti-Semitic, anti-communist, Klan led",
+		"source": "http://goo.gl/i0BjYX"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-76.120128,42.614268]
+		},
+	"properties": {
+		"title": "Second Peekskill Riots",
+		"location": "Cortlandt Manor, Westchester County, New York",
+		"date": "4-Sep-1949",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "100 injured; anti-Paul Robeson mob attacks again after first concert called off.",
+		"source": "http://goo.gl/oGLtW9"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.75987,41.838036]
+		},
+	"properties": {
+		"title": "Cicero Riot",
+		"location": "Cicero, Illinois",
+		"date": "11-Jul-1951",
+		"fatalities": "0",
+		"refugees": "25",
+		"narrative": "4000 whites attack attack black family who moved into apartment.",
+		"source": "http://goo.gl/qhVZeJ"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-80.895344,28.699314]
+		},
+	"properties": {
+		"title": "Murder of Harry and Harriette Moore",
+		"location": "Mims, Florida",
+		"date": "25-Dec-1951",
+		"fatalities": "2",
+		"refugees": "0",
+		"narrative": "Only six weeks later, on Christmas Day 1951, Moore himself was killed when a bomb was placed beneath the floor joists directly under his bed. Moore died on the way to the hospital; his wife, Harriette, died nine days later. The protests over the Moores' deaths rocked the nation, with dozens of rallies and memorial meetings around the country. President Truman and Florida Governor Fuller Warren were inundated with telegrams and protest letters. Despite an extensive FBI investigation, however, and two later investigations, the murders have never been solved. Harry Moore was the first NAACP official killed in the civil rights struggle, and he and Harriette are the only husband and wife to give their lives to the movement.",
+		"source": "http://www.pbs.org/harrymoore/harry/mbio.html"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-85.29298,37.533684]
+		},
+	"properties": {
+		"title": "Kentucky riots",
+		"location": "Kentucky",
+		"date": "21-Sep-1956",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "Wave of riotous attacks on blacks by whites in 'Deep South'",
+		"source": "http://goo.gl/lXV0PU"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-85.206426,35.017818]
+		},
+	"properties": {
+		"title": "Chattanooga Riot",
+		"location": "Chattanooga, Tennessee",
+		"date": "23-Feb-1960",
+		"fatalities": "0",
+		"refugees": "unknown",
+		"narrative": "Sit-ins by African-American students causes white mobs to riot",
+		"source": ""
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.768622,30.337538]
+		},
+	"properties": {
+		"title": "Jacksonville Riots",
+		"location": "Jacksonville, Florida",
+		"date": "27-Aug-1960",
+		"fatalities": "1",
+		"refugees": "unknown",
+		"narrative": "also known as Ax Handle Saturday; white mobs descent on sit-in demostrators sparking riots and retaliations",
+		"source": "http://goo.gl/Ts7EkX"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.801904,33.456412]
+		},
+	"properties": {
+		"title": "Alabama riots",
+		"location": "Birmingham, Alabama",
+		"date": "22-May-1961",
+		"fatalities": "Unknown",
+		"refugees": "unknown",
+		"narrative": "The incidents occurred as a white mob attacked a group of 'freedom riders' whites and blacks trying to break the colour bar in southern bus depots. Some of the Negro groups managed to extricate themselves from the melee and ran from the depot with about 100 whites in pursuit. A Negro girl wept, hysterically as a dozen whites jumped on her black copanion, hammering him as he lay helpless on the ground.",
+		"source": "http://goo.gl/HXm3XI"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.257817,32.356988]
+		},
+	"properties": {
+		"title": "Alabama riots",
+		"location": "Montgomery, Alabama",
+		"date": "22-May-1961",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "The trouble at the Negro First Baptist Church erupted this evening when a crowd of white men, women and children began throwing stones through the windows as black civil rights leader Dr Martin Luther King was speaking.",
+		"source": "http://goo.gl/l76l3t"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-90.40156,31.1769]
+		},
+	"properties": {
+		"title": "Freedom Riders Attacked",
+		"location": "McComb, Mississippi",
+		"date": "30-Nov-1961",
+		"fatalities": "0",
+		"refugees": "0",
+		"narrative": "Police were prepared to enforce federal integration orders today if more 'freedom riders' arrived at the bus terminal where five Negroes were beaten by a white mob two days ago.",
+		"source": "http://cdnc.ucr.edu/cgi-bin/cdnc?a=d&d=DS19611201.2.11&srpos=32&e=-------en--20--21-byDA-txt-txIN-%22white+mob%22------#"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-86.890072,33.512925]
+		},
+	"properties": {
+		"title": "16th Street Baptist Church bombing",
+		"location": "16th Street Baptist Church, Birmingham, Alabama",
+		"date": "15-Sep-1963",
+		"fatalities": "4",
+		"refugees": "Unknown",
+		"narrative": "Summary from Wikipedia 'The 16th Street Baptist Church bombing was an act of white supremacist terrorism which occurred at the African-American 16th Street Baptist Church in Birmingham, Alabama on Sunday, September 15, 1963, when four members of the Ku Klux Klan planted at least 15 sticks of dynamite attached to a timing device beneath the front steps of the church. Described by Dr. Martin Luther King, Jr. as 'one of the most vicious and tragic crimes ever perpetrated against humanity,' the explosion at the church killed four girls and injured 22 others.",
+		"source": "https://goo.gl/ao3LQF"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-81.367087,29.918235]
+		},
+	"properties": {
+		"title": "St. Augustine Beach Riots",
+		"location": "St. Augustine, Floriday",
+		"date": "25-Jun-1964",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Attempts to integrate Florida beach met by attack of mobs; on first day police rush in, beating and attacking white segregationists and blacks alike.",
+		"source": "http://goo.gl/EOkbu0"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-87.556448,41.617917]
+		},
+	"properties": {
+		"title": "Marquette Park Riots",
+		"location": "Marquette Park, Chicago, Illinois",
+		"date": "31-Jul-1966",
+		"fatalities": "0",
+		"refugees": "0",
+		"narrative": "An anti-housing integration riot. Account of Bernard Kleina: 'As we started marching, angry whites started spitting on me and the other marchers. Not being mentally prepared to accept this kind of degrading abuse, I told someone in the mob, “I wouldn’t do that if I were you,” as if I were ready to take onthe whole mob. (I think I may have been a little naïve at the time.) Then an older African-American man in front of me turned around and said, “Remember why you’re here, brother” and from that point on, I remained silent andwalked in solemn procession while rocks, bottles and cherry bombs were being thrown at us over the heads of the police who were “escorting” the marchers through the park. With the escort of reluctant police officers, it turned out to be the most brutal march I had ever been involved in. In fact, when we returned to our cars, we saw several pushed into the lagoon and others that were set on fire, turned over or damaged in some way. Ironically, there were only three cars not damaged. One was mine, and the other two were the police cars I had parked between. Had I arrived earlier, my car would have been damaged or destroyed like the others.",
+		"source": "http://cfm40.middlebury.edu/book/print/189"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-80.875455,33.498365]
+		},
+	"properties": {
+		"title": "Orangeburg Massacre",
+		"location": "South Carolina State College, Orangeburg, South Carolina",
+		"date": "8-Feb-1968",
+		"fatalities": "3",
+		"refugees": "Unknown (27 wounded)",
+		"narrative": "Following several nights of protests over the refusal of the All-Star Bowling Lanes to desegregate despite the passage of the Civil Rights Act four years earlier, Black students gathered for a peaceful protest on the campus of South Carolina State College in Orangeburg. During the protest, students lit a bonfire in the heart of the campus and continued to loudly call for change. Meanwhile, officers from the South Carolina highway patrol and National Guard soldiers moved towards campus. Later that evening, highway patrolmen converged on the campus to disperse the crowd and enable local firefighters to douse the flames. Accounts differ on what happened next but shortly after their arrival, the patrolmen opened fire on the students killing three and wounding twenty-seven.  Nine patrolmen were arrested and put on trial. All were acquitted. The only individual arrested, convicted, and imprisoned for his supposed role in the massacre was Cleveland Sellers, a longtime civil rights activist and former field organizer with the Student Nonviolent Coordinating Committee.",
+		"source": "Robert Terrill and Cleveland Sellers, The River of No Return; Sellers, The Orangeburg Massacre"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-71.025694,42.364197]
+		},
+	"properties": {
+		"title": "Boston Busing riots",
+		"location": "South Boston High School, Boston",
+		"date": "9-Dec-1974",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "Southie was ground zero for anti-busing rage. Hundreds of white demonstrators — children and their parents — pelted a caravan of 20 school buses carrying students from nearly all-black Roxbury to all-white South Boston. The police wore riot gear. 'I remember riding the buses to protect the kids going up to South Boston High School,' Jean McGuire, who was a bus safety monitor, recalled recently. “And the bricks through the window. Signs hanging out those buildings, ‘Nigger Go Home.’ Pictures of monkeys. The words. The spit. People just felt it was all right to attack children.",
+		"source": "http://goo.gl/TaeIvj"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-73.755133,40.605382]
+		},
+	"properties": {
+		"title": "Rosedale House Bombing",
+		"location": "Rosedale, Queens, New York",
+		"date": "31-Dec-1974",
+		"fatalities": "0",
+		"refugees": "Unknown",
+		"narrative": "The KKK firebombed a black family's home in a predominately white area on New Year's Eve.",
+		"source": "https://goo.gl/Sp9y1A"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-85.676819,38.188962]
+		},
+	"properties": {
+		"title": "Louisville Anti-Busing Riots",
+		"location": "Louisville, Kentucky",
+		"date": "5-Sep-1975",
+		"fatalities": "0",
+		"refugees": "0",
+		"narrative": "10,000 Rampage in Louisville Busing Fight' - Chicago Tribune (6th September 1975) Experimenting with desegregation, white residents threw objects at police to protest school busing of black and white students between the city and its suburbs. Kentucky National Guardsmen were called to the city the day after.",
+		"source": "http://archives.chicagotribune.com/1975/09/06/page/80/article/10-000-rampage-in-louisville-busing-fight"
+		}
+	},
+	{"type": "Feature",
+	"geometry": {"type": "Point",
+		"coordinates": [-76.743445,38.300217]
+		},
+	"properties": {
+		"title": "MOVE Bombing",
+		"location": "Osage Avenue, Philadelphia",
+		"date": "13-May-1985",
+		"fatalities": "11",
+		"refugees": "61 Homes were destroyed. A working class black neighbourhood was turned to ash.",
+		"narrative": "Collective punishment. Police bomb black residential area in stand-off. 'At 5:28 p.m., a satchel bomb composed of FBI-supplied C4 and Tovex TR2, a dynamite substitute, on a 45-second timer was dropped from a state police helicopter, detonating near the fortified pillbox on the roof of the house. Within minutes, a fire had consumed the roof and begun to spread. Firefighters, already fearful of being shot at by MOVE members, were told to let the fire burn. The blaze raged out of control, spreading down the block of row houses and hopping the narrow streets.",
+		"source": "http://mashable.com/2016/01/10/1985-move-bombing/#iWw0tTEUqkqa"
+		}
+	}
+	]
+	}
