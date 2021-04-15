@@ -263,6 +263,50 @@ function makeMarkers() {
        
 
         });  
+
+        map.on('touchstart', 'violence', function (e) {
+        // Change the cursor style as a UI indicator.
+        map.getCanvas().style.cursor = 'pointer';
+ 
+        var narrative = e.features[0].properties.narrative
+        var coordinates = e.features[0].geometry.coordinates.slice();
+        var title = e.features[0].properties.title.toUpperCase()
+        var date = e.features[0].properties.date
+        var location = e.features[0].properties.location
+        var source = e.features[0].properties.source
+        
+        infoSpan.style = 'visibiliy: visible'
+        magDisplay.textContent = title;
+        locDisplay.textContent = location;
+        dateDisplay.textContent = "Date: " + date;
+        narDisplay.textContent = narrative;
+        // sourceDisplay.textContent = source
+        sourceDisplay.innerHTML = source.link(source)
+        // sourceDiv.style= 'visibility: visible'
+
+        // var iframe = document.createElement('iframe')
+        // iframe.source = source
+        // sourceDisplay.appendChild(iframe)
+        
+        // Ensure that if the map is zoomed out such that multiple
+        // copies of the feature are visible, the popup appears
+        // over the copy being pointed to.
+        while (Math.abs(e.lngLat.lng - coordinates) > 180) {
+        coordinates += e.lngLat.lng > coordinates ? 360 : -360;
+        }
+        
+        // Populate the popup and set its coordinates
+        // based on the feature found.
+        popup.setLngLat(coordinates).setHTML(title).addTo(map);
+        });
+        
+        map.on('touchend', 'violence', function () {
+        map.getCanvas().style.cursor = '';
+        popup.remove();
+        //infoSpan.style = 'visibility: hidden'
+       
+
+        });  
     
 }
 
