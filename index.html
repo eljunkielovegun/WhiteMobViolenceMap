@@ -236,17 +236,9 @@ function makeMarkers() {
         locDisplay.textContent = location;
         dateDisplay.textContent = "Date: " + date;
         narDisplay.textContent = narrative;
-        // sourceDisplay.textContent = source
+      
         sourceDisplay.innerHTML = source.link(source)
-        // sourceDiv.style= 'visibility: visible'
-
-        // var iframe = document.createElement('iframe')
-        // iframe.source = source
-        // sourceDisplay.appendChild(iframe)
-        
-        // Ensure that if the map is zoomed out such that multiple
-        // copies of the feature are visible, the popup appears
-        // over the copy being pointed to.
+    
         while (Math.abs(e.lngLat.lng - coordinates) > 180) {
         coordinates += e.lngLat.lng > coordinates ? 360 : -360;
         }
@@ -282,15 +274,7 @@ function makeMarkers() {
         narDisplay.textContent = narrative;
         // sourceDisplay.textContent = source
         sourceDisplay.innerHTML = source.link(source)
-        // sourceDiv.style= 'visibility: visible'
-
-        // var iframe = document.createElement('iframe')
-        // iframe.source = source
-        // sourceDisplay.appendChild(iframe)
-        
-        // Ensure that if the map is zoomed out such that multiple
-        // copies of the feature are visible, the popup appears
-        // over the copy being pointed to.
+    
         while (Math.abs(e.lngLat.lng - coordinates) > 180) {
         coordinates += e.lngLat.lng > coordinates ? 360 : -360;
         }
@@ -307,6 +291,12 @@ function makeMarkers() {
        
 
         });  
+
+        if(infoSpan.style = 'visibility: visible'){
+            setTimeout(() => {
+                infoSpan.style = 'visibility: hidden'
+            }, 4000);
+        }
     
 }
 
