@@ -78,7 +78,7 @@
             opacity: 1;
             right: 0;
             float: right;
-            margin-right: -40%;
+            margin-right: -100%;
             padding-top: 30px; 
             padding-left: 20px; 
             padding-bottom: 20px; 
@@ -93,10 +93,14 @@
             
             }
 
-        @media screen {
-            .credits {
-                width: 100%;
-                transition: 0.0s;
+        @media screen and (max-width: 600px) {
+            #credits {
+                width: 80%;
+             
+             
+            }
+            .violenceDisplay{
+                margin-top: 10%;
             }
         }
 
@@ -316,17 +320,48 @@ var sourceDiv = document.getElementById('sourceDiv');
 var infoSpan = document.getElementById('info');
 var creditDiv = document.getElementById('credits');
 var menuContainter = document.getElementsByClassName('container');
+const mediaQuery = window.matchMedia( '( max-width: 500px )' )
+let smallScreen = null
+
+if ( mediaQuery.matches ) {
+    smallScreen = true
+}
+
+function handleTabletChange(e) {
+  // Check if the media query is true
+  if (e.matches) {
+    // Then log the following message to the console
+    console.log('Media Query Matched!')
+    smallScreen = true
+  }
+}
+
+
+
+// Register event listener
+mediaQuery.addListener(handleTabletChange)
 
 menuContainter[0].addEventListener('mouseover', function (event) {
-    menuContainter[0].style = 'visibility: hidden'
-    // menuContainter[0].style = 'margin-right: 35%'
-     creditDiv.style = 'margin-right: 0%'
+   
+    if (smallScreen) {
+
+        creditDiv.style = 'margin-right: 0% !important' 
+        // creditDiv.style = 'width: 80%'
+        
+        menuContainter[0].style = 'visibility: hidden' 
+    } else {
+        menuContainter[0].style = 'visibility: hidden'
+        creditDiv.style = 'margin-right: 0%'
+    }
+    
 })
 
 creditDiv.addEventListener('click', function (event) {
     menuContainter[0].style = 'visibility: visible'
-     creditDiv.style = 'margin-right: -40%'
+     creditDiv.style = 'margin-right: -100%'
 })
+
+
 
 
 
