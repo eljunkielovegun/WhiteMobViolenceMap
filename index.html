@@ -52,9 +52,6 @@
             position: absolute; 
             right: 0;
             margin-right: 30px;
-            
-            /* margin-top: 10px; */
-            /* padding: 5px; */
             width: 35px;
             height: 3px;
             background-color: white;
@@ -184,26 +181,6 @@ function wobble(x) {
    
 }
 
-
-
-
-
-    
-
-
-// fetch('WhiteMobViolence.json')
-// .then(response => response.json() )
-// .then(result => {
-//    // console.log('Success:', result);
-//     data = result
-//     makeMarkers()
-    
-//   })
-// .catch((error) => {
-//     console.error('Error:', error);
-//   });
-
-//console.log(data)
 
 map.on('load', function () {
     makeMarkers()
@@ -343,9 +320,6 @@ var sourceDiv = document.getElementById('sourceDiv');
 var infoSpan = document.getElementById('info');
 var creditDiv = document.getElementById('credits');
 var menuContainter = document.getElementsByClassName('container');
-// var bar1 = document.getElementsByClassName('bar1');
-// var bar2 = document.getElementsByClassName('bar2');
-// var bar3 = document.getElementsByClassName('bar3');
 
 menuContainter[0].addEventListener('mouseover', function (event) {
     menuContainter[0].style = 'visibility: hidden'
